@@ -1,0 +1,205 @@
+{
+  "TcpModeEnable": 0,
+  "ClearData": 0,
+  "SendFramePeriod": 500,
+  "dataset": [
+    {
+      "DevIndex": "0",
+      "S_link": 5,
+      "S_linkDev": 1,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 18,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 18,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "LowAddr": 272,
+          "HighAddr": 289,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 272,
+          "DataTypeEnum": 1,
+          "KeyDec": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 4,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u32",
+          "LowAddr": 304,
+          "HighAddr": 307,
+          "DataFormat": 2,
+          "StoreRegStartAddr": 19,
+          "ModbusRegAddr": 304,
+          "DataTypeEnum": 2,
+          "KeyDec": [
+            "",
+            ""
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 3,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 3,
+          "AreaNum": 2,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "LowAddr": 768,
+          "HighAddr": 770,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 21,
+          "ModbusRegAddr": 768,
+          "DataTypeEnum": 1,
+          "KeyDec": [
+            "",
+            "",
+            ""
+          ],
+          "KeyMode": [
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 10,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 10,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "LowAddr": 24576,
+          "HighAddr": 24585,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 24,
+          "ModbusRegAddr": 24576,
+          "DataTypeEnum": 1,
+          "KeyDec": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    }
+  ]
+}

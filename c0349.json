@@ -1,0 +1,1264 @@
+{
+  "Para": [
+    {
+      "No": 0,
+      "DevNo": 0,
+      "RegNo": 0,
+      "Name": "保护预置继电器状态",
+      "ModeName": "YX_0",
+      "DataType": 0
+    },
+    {
+      "No": 1,
+      "DevNo": 0,
+      "RegNo": 1,
+      "Name": "重故障继电器状态",
+      "ModeName": "YX_1",
+      "DataType": 0
+    },
+    {
+      "No": 2,
+      "DevNo": 0,
+      "RegNo": 2,
+      "Name": "保护合闸继电器状态(预置继电器使能时值有效)",
+      "ModeName": "YX_2",
+      "DataType": 0
+    },
+    {
+      "No": 3,
+      "DevNo": 0,
+      "RegNo": 3,
+      "Name": "保护分闸继电器状态(预置继电器使能时值有效)",
+      "ModeName": "YX_3",
+      "DataType": 0
+    },
+    {
+      "No": 4,
+      "DevNo": 0,
+      "RegNo": 4,
+      "Name": "保护底板扩展遥信_遥信5",
+      "ModeName": "YX_4",
+      "DataType": 0
+    },
+    {
+      "No": 5,
+      "DevNo": 0,
+      "RegNo": 5,
+      "Name": "保护底板扩展遥信_遥信6",
+      "ModeName": "YX_5",
+      "DataType": 0
+    },
+    {
+      "No": 6,
+      "DevNo": 0,
+      "RegNo": 6,
+      "Name": "保护底板扩展遥信_遥信7",
+      "ModeName": "YX_6",
+      "DataType": 0
+    },
+    {
+      "No": 7,
+      "DevNo": 0,
+      "RegNo": 7,
+      "Name": "复归遥信",
+      "ModeName": "YX_7",
+      "DataType": 0
+    },
+    {
+      "No": 8,
+      "DevNo": 0,
+      "RegNo": 8,
+      "Name": "预留遥信1",
+      "ModeName": "YX_8",
+      "DataType": 0
+    },
+    {
+      "No": 9,
+      "DevNo": 0,
+      "RegNo": 9,
+      "Name": "预留遥信2",
+      "ModeName": "YX_9",
+      "DataType": 0
+    },
+    {
+      "No": 10,
+      "DevNo": 0,
+      "RegNo": 10,
+      "Name": "预留遥信3",
+      "ModeName": "YX_10",
+      "DataType": 0
+    },
+    {
+      "No": 11,
+      "DevNo": 0,
+      "RegNo": 11,
+      "Name": "预留遥信4",
+      "ModeName": "YX_11",
+      "DataType": 0
+    },
+    {
+      "No": 12,
+      "DevNo": 0,
+      "RegNo": 12,
+      "Name": "预留遥信5",
+      "ModeName": "YX_12",
+      "DataType": 0
+    },
+    {
+      "No": 13,
+      "DevNo": 0,
+      "RegNo": 13,
+      "Name": "预留遥信6",
+      "ModeName": "YX_13",
+      "DataType": 0
+    },
+    {
+      "No": 14,
+      "DevNo": 0,
+      "RegNo": 14,
+      "Name": "过压软压板投退状态",
+      "ModeName": "YX_14",
+      "DataType": 0
+    },
+    {
+      "No": 15,
+      "DevNo": 0,
+      "RegNo": 15,
+      "Name": "过压告警/保护",
+      "ModeName": "YX_15",
+      "DataType": 0
+    },
+    {
+      "No": 16,
+      "DevNo": 0,
+      "RegNo": 16,
+      "Name": "A相过压软压板投退状态",
+      "ModeName": "YX_16",
+      "DataType": 0
+    },
+    {
+      "No": 17,
+      "DevNo": 0,
+      "RegNo": 17,
+      "Name": "A相过压告警/保护",
+      "ModeName": "YX_17",
+      "DataType": 0
+    },
+    {
+      "No": 18,
+      "DevNo": 0,
+      "RegNo": 18,
+      "Name": "B相过压软压板投退状态",
+      "ModeName": "YX_18",
+      "DataType": 0
+    },
+    {
+      "No": 19,
+      "DevNo": 0,
+      "RegNo": 19,
+      "Name": "B相过压告警/保护",
+      "ModeName": "YX_19",
+      "DataType": 0
+    },
+    {
+      "No": 20,
+      "DevNo": 0,
+      "RegNo": 20,
+      "Name": "C相过压软压板投退状态",
+      "ModeName": "YX_20",
+      "DataType": 0
+    },
+    {
+      "No": 21,
+      "DevNo": 0,
+      "RegNo": 21,
+      "Name": "C相过压告警/保护",
+      "ModeName": "YX_21",
+      "DataType": 0
+    },
+    {
+      "No": 22,
+      "DevNo": 0,
+      "RegNo": 22,
+      "Name": "欠压软压板投退状态",
+      "ModeName": "YX_22",
+      "DataType": 0
+    },
+    {
+      "No": 23,
+      "DevNo": 0,
+      "RegNo": 23,
+      "Name": "欠压告警/保护",
+      "ModeName": "YX_23",
+      "DataType": 0
+    },
+    {
+      "No": 24,
+      "DevNo": 0,
+      "RegNo": 24,
+      "Name": "A相欠压软压板投退状态",
+      "ModeName": "YX_24",
+      "DataType": 0
+    },
+    {
+      "No": 25,
+      "DevNo": 0,
+      "RegNo": 25,
+      "Name": "A相欠压告警/保护",
+      "ModeName": "YX_25",
+      "DataType": 0
+    },
+    {
+      "No": 26,
+      "DevNo": 0,
+      "RegNo": 26,
+      "Name": "B相欠压软压板投退状态",
+      "ModeName": "YX_26",
+      "DataType": 0
+    },
+    {
+      "No": 27,
+      "DevNo": 0,
+      "RegNo": 27,
+      "Name": "B相欠压告警/保护",
+      "ModeName": "YX_27",
+      "DataType": 0
+    },
+    {
+      "No": 28,
+      "DevNo": 0,
+      "RegNo": 28,
+      "Name": "C相欠压软压板投退状态",
+      "ModeName": "YX_28",
+      "DataType": 0
+    },
+    {
+      "No": 29,
+      "DevNo": 0,
+      "RegNo": 29,
+      "Name": "C相欠压告警/保护",
+      "ModeName": "YX_29",
+      "DataType": 0
+    },
+    {
+      "No": 30,
+      "DevNo": 0,
+      "RegNo": 30,
+      "Name": "过流软压板投退状态",
+      "ModeName": "YX_30",
+      "DataType": 0
+    },
+    {
+      "No": 31,
+      "DevNo": 0,
+      "RegNo": 31,
+      "Name": "过流告警/保护",
+      "ModeName": "YX_31",
+      "DataType": 0
+    },
+    {
+      "No": 32,
+      "DevNo": 0,
+      "RegNo": 32,
+      "Name": "A相过流软压板投退状态",
+      "ModeName": "YX_32",
+      "DataType": 0
+    },
+    {
+      "No": 33,
+      "DevNo": 0,
+      "RegNo": 33,
+      "Name": "A相过流告警/保护",
+      "ModeName": "YX_33",
+      "DataType": 0
+    },
+    {
+      "No": 34,
+      "DevNo": 0,
+      "RegNo": 34,
+      "Name": "B相过流软压板投退状态",
+      "ModeName": "YX_34",
+      "DataType": 0
+    },
+    {
+      "No": 35,
+      "DevNo": 0,
+      "RegNo": 35,
+      "Name": "B相过流告警/保护",
+      "ModeName": "YX_35",
+      "DataType": 0
+    },
+    {
+      "No": 36,
+      "DevNo": 0,
+      "RegNo": 36,
+      "Name": "C相过流软压板投退状态",
+      "ModeName": "YX_36",
+      "DataType": 0
+    },
+    {
+      "No": 37,
+      "DevNo": 0,
+      "RegNo": 37,
+      "Name": "C相过流告警/保护",
+      "ModeName": "YX_37",
+      "DataType": 0
+    },
+    {
+      "No": 38,
+      "DevNo": 0,
+      "RegNo": 38,
+      "Name": "停电软压板投退状态",
+      "ModeName": "YX_38",
+      "DataType": 0
+    },
+    {
+      "No": 39,
+      "DevNo": 0,
+      "RegNo": 39,
+      "Name": "停电告警/保护",
+      "ModeName": "YX_39",
+      "DataType": 0
+    },
+    {
+      "No": 40,
+      "DevNo": 0,
+      "RegNo": 40,
+      "Name": "A相断相软压板投退状态",
+      "ModeName": "YX_40",
+      "DataType": 0
+    },
+    {
+      "No": 41,
+      "DevNo": 0,
+      "RegNo": 41,
+      "Name": "A相断相告警/保护",
+      "ModeName": "YX_41",
+      "DataType": 0
+    },
+    {
+      "No": 42,
+      "DevNo": 0,
+      "RegNo": 42,
+      "Name": "B相断相软压板投退状态",
+      "ModeName": "YX_42",
+      "DataType": 0
+    },
+    {
+      "No": 43,
+      "DevNo": 0,
+      "RegNo": 43,
+      "Name": "B相断相告警/保护",
+      "ModeName": "YX_43",
+      "DataType": 0
+    },
+    {
+      "No": 44,
+      "DevNo": 0,
+      "RegNo": 44,
+      "Name": "C相断相软压板投退状态",
+      "ModeName": "YX_44",
+      "DataType": 0
+    },
+    {
+      "No": 45,
+      "DevNo": 0,
+      "RegNo": 45,
+      "Name": "C相断相告警/保护",
+      "ModeName": "YX_45",
+      "DataType": 0
+    },
+    {
+      "No": 46,
+      "DevNo": 0,
+      "RegNo": 46,
+      "Name": "电压不平衡软压板投退状态",
+      "ModeName": "YX_46",
+      "DataType": 0
+    },
+    {
+      "No": 47,
+      "DevNo": 0,
+      "RegNo": 47,
+      "Name": "电压不平衡告警/保护",
+      "ModeName": "YX_47",
+      "DataType": 0
+    },
+    {
+      "No": 48,
+      "DevNo": 0,
+      "RegNo": 48,
+      "Name": "电流不平衡软压板投退状态",
+      "ModeName": "YX_48",
+      "DataType": 0
+    },
+    {
+      "No": 49,
+      "DevNo": 0,
+      "RegNo": 49,
+      "Name": "电流不平衡告警/保护",
+      "ModeName": "YX_49",
+      "DataType": 0
+    },
+    {
+      "No": 50,
+      "DevNo": 0,
+      "RegNo": 50,
+      "Name": "功率因数下限设置软压板投退状态",
+      "ModeName": "YX_50",
+      "DataType": 0
+    },
+    {
+      "No": 51,
+      "DevNo": 0,
+      "RegNo": 51,
+      "Name": "功率因数下限告警/保护",
+      "ModeName": "YX_51",
+      "DataType": 0
+    },
+    {
+      "No": 52,
+      "DevNo": 0,
+      "RegNo": 52,
+      "Name": "零序过流软压板投退状态",
+      "ModeName": "YX_52",
+      "DataType": 0
+    },
+    {
+      "No": 53,
+      "DevNo": 0,
+      "RegNo": 53,
+      "Name": "零序过流告警/保护",
+      "ModeName": "YX_53",
+      "DataType": 0
+    },
+    {
+      "No": 54,
+      "DevNo": 0,
+      "RegNo": 54,
+      "Name": "预留_设置软压板投退状态",
+      "ModeName": "YX_54",
+      "DataType": 0
+    },
+    {
+      "No": 55,
+      "DevNo": 0,
+      "RegNo": 55,
+      "Name": "预留_下限告警/保护",
+      "ModeName": "YX_55",
+      "DataType": 0
+    },
+    {
+      "No": 56,
+      "DevNo": 0,
+      "RegNo": 56,
+      "Name": "预留_设置软压板投退状态",
+      "ModeName": "YX_56",
+      "DataType": 0
+    },
+    {
+      "No": 57,
+      "DevNo": 0,
+      "RegNo": 57,
+      "Name": "预留_下限告警/保护",
+      "ModeName": "YX_57",
+      "DataType": 0
+    },
+    {
+      "No": 58,
+      "DevNo": 0,
+      "RegNo": 58,
+      "Name": "过频设置软压板投退状态(负荷侧)",
+      "ModeName": "YX_58",
+      "DataType": 0
+    },
+    {
+      "No": 59,
+      "DevNo": 0,
+      "RegNo": 59,
+      "Name": "过频告警/保护(负荷侧)",
+      "ModeName": "YX_59",
+      "DataType": 0
+    },
+    {
+      "No": 60,
+      "DevNo": 0,
+      "RegNo": 60,
+      "Name": "过频设置软压板投退状态(电源侧)",
+      "ModeName": "YX_60",
+      "DataType": 0
+    },
+    {
+      "No": 61,
+      "DevNo": 0,
+      "RegNo": 61,
+      "Name": "过频告警/保护(电源侧)",
+      "ModeName": "YX_61",
+      "DataType": 0
+    },
+    {
+      "No": 62,
+      "DevNo": 0,
+      "RegNo": 62,
+      "Name": "预留_下限设置软压板投退状态",
+      "ModeName": "YX_62",
+      "DataType": 0
+    },
+    {
+      "No": 63,
+      "DevNo": 0,
+      "RegNo": 63,
+      "Name": "预留_告警/保护",
+      "ModeName": "YX_63",
+      "DataType": 0
+    },
+    {
+      "No": 64,
+      "DevNo": 0,
+      "RegNo": 64,
+      "Name": "预留_下限设置软压板投退状态",
+      "ModeName": "YX_64",
+      "DataType": 0
+    },
+    {
+      "No": 65,
+      "DevNo": 0,
+      "RegNo": 65,
+      "Name": "预留_告警/保护",
+      "ModeName": "YX_65",
+      "DataType": 0
+    },
+    {
+      "No": 66,
+      "DevNo": 0,
+      "RegNo": 66,
+      "Name": "低频设置软压板投退状态(负荷侧)",
+      "ModeName": "YX_66",
+      "DataType": 0
+    },
+    {
+      "No": 67,
+      "DevNo": 0,
+      "RegNo": 67,
+      "Name": "低频告警/保护(负荷侧)",
+      "ModeName": "YX_67",
+      "DataType": 0
+    },
+    {
+      "No": 68,
+      "DevNo": 0,
+      "RegNo": 68,
+      "Name": "低频设置软压板投退状态(电源侧)",
+      "ModeName": "YX_68",
+      "DataType": 0
+    },
+    {
+      "No": 69,
+      "DevNo": 0,
+      "RegNo": 69,
+      "Name": "低频告警/保护(电源侧)",
+      "ModeName": "YX_69",
+      "DataType": 0
+    },
+    {
+      "No": 70,
+      "DevNo": 0,
+      "RegNo": 70,
+      "Name": "预留_设置软压板投退状态",
+      "ModeName": "YX_70",
+      "DataType": 0
+    },
+    {
+      "No": 71,
+      "DevNo": 0,
+      "RegNo": 71,
+      "Name": "预留_告警/保护",
+      "ModeName": "YX_71",
+      "DataType": 0
+    },
+    {
+      "No": 72,
+      "DevNo": 0,
+      "RegNo": 72,
+      "Name": "预留_设置软压板投退状态",
+      "ModeName": "YX_72",
+      "DataType": 0
+    },
+    {
+      "No": 73,
+      "DevNo": 0,
+      "RegNo": 73,
+      "Name": "预留_告警/保护",
+      "ModeName": "YX_73",
+      "DataType": 0
+    },
+    {
+      "No": 74,
+      "DevNo": 0,
+      "RegNo": 74,
+      "Name": "过载设置软压板投退状态(负荷侧)",
+      "ModeName": "YX_74",
+      "DataType": 0
+    },
+    {
+      "No": 75,
+      "DevNo": 0,
+      "RegNo": 75,
+      "Name": "过载告警/保护(负荷侧)",
+      "ModeName": "YX_75",
+      "DataType": 0
+    },
+    {
+      "No": 76,
+      "DevNo": 0,
+      "RegNo": 76,
+      "Name": "逆功率保护软压板投退状态",
+      "ModeName": "YX_76",
+      "DataType": 0
+    },
+    {
+      "No": 77,
+      "DevNo": 0,
+      "RegNo": 77,
+      "Name": "逆功率保护告警/保护",
+      "ModeName": "YX_77",
+      "DataType": 0
+    },
+    {
+      "No": 78,
+      "DevNo": 0,
+      "RegNo": 78,
+      "Name": "预留_设置软压板投退状态",
+      "ModeName": "YX_78",
+      "DataType": 0
+    },
+    {
+      "No": 79,
+      "DevNo": 0,
+      "RegNo": 79,
+      "Name": "预留_告警/保护",
+      "ModeName": "YX_79",
+      "DataType": 0
+    },
+    {
+      "No": 80,
+      "DevNo": 0,
+      "RegNo": 80,
+      "Name": "预留_设置软压板投退状态",
+      "ModeName": "YX_80",
+      "DataType": 0
+    },
+    {
+      "No": 81,
+      "DevNo": 0,
+      "RegNo": 81,
+      "Name": "预留_告警/保护",
+      "ModeName": "YX_81",
+      "DataType": 0
+    },
+    {
+      "No": 82,
+      "DevNo": 0,
+      "RegNo": 82,
+      "Name": "CT变比",
+      "ModeName": "YC_0",
+      "DataType": 1
+    },
+    {
+      "No": 83,
+      "DevNo": 0,
+      "RegNo": 83,
+      "Name": "进线侧PT变比",
+      "ModeName": "YC_1",
+      "DataType": 1
+    },
+    {
+      "No": 84,
+      "DevNo": 0,
+      "RegNo": 84,
+      "Name": "出线侧PT变比",
+      "ModeName": "YC_2",
+      "DataType": 1
+    },
+    {
+      "No": 85,
+      "DevNo": 0,
+      "RegNo": 85,
+      "Name": "遥测预留4",
+      "ModeName": "YC_3",
+      "DataType": 1
+    },
+    {
+      "No": 86,
+      "DevNo": 0,
+      "RegNo": 86,
+      "Name": "遥测预留5",
+      "ModeName": "YC_4",
+      "DataType": 1
+    },
+    {
+      "No": 87,
+      "DevNo": 0,
+      "RegNo": 87,
+      "Name": "遥测预留6",
+      "ModeName": "YC_5",
+      "DataType": 1
+    },
+    {
+      "No": 88,
+      "DevNo": 0,
+      "RegNo": 88,
+      "Name": "遥测预留7",
+      "ModeName": "YC_6",
+      "DataType": 1
+    },
+    {
+      "No": 89,
+      "DevNo": 0,
+      "RegNo": 89,
+      "Name": "A相电压_0.1V(负荷侧UA2_保护采集)",
+      "ModeName": "YC_7",
+      "DataType": 1
+    },
+    {
+      "No": 90,
+      "DevNo": 0,
+      "RegNo": 90,
+      "Name": "B相电压_0.1V(负荷侧UB2_保护采集)",
+      "ModeName": "YC_8",
+      "DataType": 1
+    },
+    {
+      "No": 91,
+      "DevNo": 0,
+      "RegNo": 91,
+      "Name": "C相电压_0.1V(负荷侧UC2_保护采集)",
+      "ModeName": "YC_9",
+      "DataType": 1
+    },
+    {
+      "No": 92,
+      "DevNo": 0,
+      "RegNo": 92,
+      "Name": "电源侧_出线侧的A相电压相角_0.1(角差)",
+      "ModeName": "YC_10",
+      "DataType": 1
+    },
+    {
+      "No": 93,
+      "DevNo": 0,
+      "RegNo": 93,
+      "Name": "A相电流_0.01A(保护采集)",
+      "ModeName": "YC_11",
+      "DataType": 1
+    },
+    {
+      "No": 94,
+      "DevNo": 0,
+      "RegNo": 94,
+      "Name": "B相电流_0.01A(保护采集)",
+      "ModeName": "YC_12",
+      "DataType": 1
+    },
+    {
+      "No": 95,
+      "DevNo": 0,
+      "RegNo": 95,
+      "Name": "C相电流_0.01A(保护采集)",
+      "ModeName": "YC_13",
+      "DataType": 1
+    },
+    {
+      "No": 96,
+      "DevNo": 0,
+      "RegNo": 96,
+      "Name": "零序电流_0.01A(保护采集)",
+      "ModeName": "YC_14",
+      "DataType": 1
+    },
+    {
+      "No": 97,
+      "DevNo": 0,
+      "RegNo": 97,
+      "Name": "AB线电压_0.1V(负荷侧UAB_保护采集)",
+      "ModeName": "YC_15",
+      "DataType": 1
+    },
+    {
+      "No": 98,
+      "DevNo": 0,
+      "RegNo": 98,
+      "Name": "CB线电压_0.1V(负荷侧UCB_保护采集)",
+      "ModeName": "YC_16",
+      "DataType": 1
+    },
+    {
+      "No": 99,
+      "DevNo": 0,
+      "RegNo": 99,
+      "Name": "AC线电压_0.1V(负荷侧UAC_保护采集)",
+      "ModeName": "YC_17",
+      "DataType": 1
+    },
+    {
+      "No": 100,
+      "DevNo": 0,
+      "RegNo": 100,
+      "Name": "A相有功功率_VA(负荷侧_保护采集)",
+      "ModeName": "YC_18",
+      "DataType": 1
+    },
+    {
+      "No": 101,
+      "DevNo": 0,
+      "RegNo": 101,
+      "Name": "B相有功功率_VA(负荷侧_保护采集)",
+      "ModeName": "YC_19",
+      "DataType": 1
+    },
+    {
+      "No": 102,
+      "DevNo": 0,
+      "RegNo": 102,
+      "Name": "C相有功功率_VA(负荷侧_保护采集)",
+      "ModeName": "YC_20",
+      "DataType": 1
+    },
+    {
+      "No": 103,
+      "DevNo": 0,
+      "RegNo": 103,
+      "Name": "电源侧_出线侧的B相电压相角_0.1%(角差)",
+      "ModeName": "YC_21",
+      "DataType": 1
+    },
+    {
+      "No": 104,
+      "DevNo": 0,
+      "RegNo": 104,
+      "Name": "A相无功功率_VA(负荷侧_保护采集)",
+      "ModeName": "YC_22",
+      "DataType": 1
+    },
+    {
+      "No": 105,
+      "DevNo": 0,
+      "RegNo": 105,
+      "Name": "B相无功功率_VA(负荷侧_保护采集)",
+      "ModeName": "YC_23",
+      "DataType": 1
+    },
+    {
+      "No": 106,
+      "DevNo": 0,
+      "RegNo": 106,
+      "Name": "C相无功功率_VA(负荷侧_保护采集)",
+      "ModeName": "YC_24",
+      "DataType": 1
+    },
+    {
+      "No": 107,
+      "DevNo": 0,
+      "RegNo": 107,
+      "Name": "电源侧_出线侧的C相电压相角_0.1%(角差)",
+      "ModeName": "YC_25",
+      "DataType": 1
+    },
+    {
+      "No": 108,
+      "DevNo": 0,
+      "RegNo": 108,
+      "Name": "A相相角_0.1°(负荷侧_保护采集)",
+      "ModeName": "YC_26",
+      "DataType": 1
+    },
+    {
+      "No": 109,
+      "DevNo": 0,
+      "RegNo": 109,
+      "Name": "B相相角_0.1°(负荷侧_保护采集)",
+      "ModeName": "YC_27",
+      "DataType": 1
+    },
+    {
+      "No": 110,
+      "DevNo": 0,
+      "RegNo": 110,
+      "Name": "C相相角_0.1°(负荷侧_保护采集)",
+      "ModeName": "YC_28",
+      "DataType": 1
+    },
+    {
+      "No": 111,
+      "DevNo": 0,
+      "RegNo": 111,
+      "Name": "总视在功率(负荷侧_保护采集)",
+      "ModeName": "YC_29",
+      "DataType": 1
+    },
+    {
+      "No": 112,
+      "DevNo": 0,
+      "RegNo": 112,
+      "Name": "频率_0.01HZ(负荷侧_保护采集)",
+      "ModeName": "YC_30",
+      "DataType": 1
+    },
+    {
+      "No": 113,
+      "DevNo": 0,
+      "RegNo": 113,
+      "Name": "总有功功率_VA(负荷侧_保护采集)",
+      "ModeName": "YC_31",
+      "DataType": 1
+    },
+    {
+      "No": 114,
+      "DevNo": 0,
+      "RegNo": 114,
+      "Name": "总无功功率_VAR(负荷侧_保护采集)",
+      "ModeName": "YC_32",
+      "DataType": 1
+    },
+    {
+      "No": 115,
+      "DevNo": 0,
+      "RegNo": 115,
+      "Name": "功率因数_0.1%(负荷侧_保护采集)",
+      "ModeName": "YC_33",
+      "DataType": 1
+    },
+    {
+      "No": 116,
+      "DevNo": 0,
+      "RegNo": 116,
+      "Name": "A相电压_0.1V(进线侧UA1_保护采集)",
+      "ModeName": "YC_34",
+      "DataType": 1
+    },
+    {
+      "No": 117,
+      "DevNo": 0,
+      "RegNo": 117,
+      "Name": "B相电压_0.1V(进线侧UB1_保护采集)",
+      "ModeName": "YC_35",
+      "DataType": 1
+    },
+    {
+      "No": 118,
+      "DevNo": 0,
+      "RegNo": 118,
+      "Name": "C相电压_0.1V(进线侧UC1_保护采集)",
+      "ModeName": "YC_36",
+      "DataType": 1
+    },
+    {
+      "No": 119,
+      "DevNo": 0,
+      "RegNo": 119,
+      "Name": "频率_0.01HZ(进线侧UC1_保护采集)",
+      "ModeName": "YC_37",
+      "DataType": 1
+    },
+    {
+      "No": 120,
+      "DevNo": 0,
+      "RegNo": 120,
+      "Name": "A相相角_0.1°(电源侧_保护采集)",
+      "ModeName": "YC_38",
+      "DataType": 1
+    },
+    {
+      "No": 121,
+      "DevNo": 0,
+      "RegNo": 121,
+      "Name": "B相相角_0.1°(电源侧_保护采集)",
+      "ModeName": "YC_39",
+      "DataType": 1
+    },
+    {
+      "No": 122,
+      "DevNo": 0,
+      "RegNo": 122,
+      "Name": "C相相角_0.1°(电源侧_保护采集)",
+      "ModeName": "YC_40",
+      "DataType": 1
+    },
+    {
+      "No": 123,
+      "DevNo": 1,
+      "RegNo": 18101,
+      "Name": "过压软压板遥控投退",
+      "ModeName": "YK_0",
+      "DataType": 2
+    },
+    {
+      "No": 124,
+      "DevNo": 1,
+      "RegNo": 18102,
+      "Name": "A相过压软压板遥控投退",
+      "ModeName": "YK_1",
+      "DataType": 2
+    },
+    {
+      "No": 125,
+      "DevNo": 1,
+      "RegNo": 18103,
+      "Name": "B相过压软压板遥控投退",
+      "ModeName": "YK_2",
+      "DataType": 2
+    },
+    {
+      "No": 126,
+      "DevNo": 1,
+      "RegNo": 18104,
+      "Name": "C相过压软压板遥控投退",
+      "ModeName": "YK_3",
+      "DataType": 2
+    },
+    {
+      "No": 127,
+      "DevNo": 1,
+      "RegNo": 18105,
+      "Name": "欠压软压板遥控投退",
+      "ModeName": "YK_4",
+      "DataType": 2
+    },
+    {
+      "No": 128,
+      "DevNo": 1,
+      "RegNo": 18106,
+      "Name": "A相欠压软压板遥控投退",
+      "ModeName": "YK_5",
+      "DataType": 2
+    },
+    {
+      "No": 129,
+      "DevNo": 1,
+      "RegNo": 18107,
+      "Name": "B相欠压软压板遥控投退",
+      "ModeName": "YK_6",
+      "DataType": 2
+    },
+    {
+      "No": 130,
+      "DevNo": 1,
+      "RegNo": 18108,
+      "Name": "C相欠压软压板遥控投退",
+      "ModeName": "YK_7",
+      "DataType": 2
+    },
+    {
+      "No": 131,
+      "DevNo": 1,
+      "RegNo": 18109,
+      "Name": "过流软压板遥控投退",
+      "ModeName": "YK_8",
+      "DataType": 2
+    },
+    {
+      "No": 132,
+      "DevNo": 1,
+      "RegNo": 18110,
+      "Name": "A相过流软压板遥控投退",
+      "ModeName": "YK_9",
+      "DataType": 2
+    },
+    {
+      "No": 133,
+      "DevNo": 1,
+      "RegNo": 18111,
+      "Name": "B相过流软压板遥控投退",
+      "ModeName": "YK_10",
+      "DataType": 2
+    },
+    {
+      "No": 134,
+      "DevNo": 1,
+      "RegNo": 18112,
+      "Name": "C相过流软压板遥控投退",
+      "ModeName": "YK_11",
+      "DataType": 2
+    },
+    {
+      "No": 135,
+      "DevNo": 1,
+      "RegNo": 18113,
+      "Name": "停电软压板遥控投退",
+      "ModeName": "YK_12",
+      "DataType": 2
+    },
+    {
+      "No": 136,
+      "DevNo": 1,
+      "RegNo": 18114,
+      "Name": "A相断相软压板遥控投退",
+      "ModeName": "YK_13",
+      "DataType": 2
+    },
+    {
+      "No": 137,
+      "DevNo": 1,
+      "RegNo": 18115,
+      "Name": "B相断相软压板遥控投退",
+      "ModeName": "YK_14",
+      "DataType": 2
+    },
+    {
+      "No": 138,
+      "DevNo": 1,
+      "RegNo": 18116,
+      "Name": "C相断相软压板遥控投退",
+      "ModeName": "YK_15",
+      "DataType": 2
+    },
+    {
+      "No": 139,
+      "DevNo": 1,
+      "RegNo": 18117,
+      "Name": "电压不平衡软压板遥控投退",
+      "ModeName": "YK_16",
+      "DataType": 2
+    },
+    {
+      "No": 140,
+      "DevNo": 1,
+      "RegNo": 18118,
+      "Name": "电流不平衡软压板遥控投退",
+      "ModeName": "YK_17",
+      "DataType": 2
+    },
+    {
+      "No": 141,
+      "DevNo": 1,
+      "RegNo": 18119,
+      "Name": "功率因数软压板遥控投退",
+      "ModeName": "YK_18",
+      "DataType": 2
+    },
+    {
+      "No": 142,
+      "DevNo": 1,
+      "RegNo": 18120,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_19",
+      "DataType": 2
+    },
+    {
+      "No": 143,
+      "DevNo": 1,
+      "RegNo": 18121,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_20",
+      "DataType": 2
+    },
+    {
+      "No": 144,
+      "DevNo": 1,
+      "RegNo": 18122,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_21",
+      "DataType": 2
+    },
+    {
+      "No": 145,
+      "DevNo": 1,
+      "RegNo": 18123,
+      "Name": "过频软压板遥控投退(负荷侧)",
+      "ModeName": "YK_22",
+      "DataType": 2
+    },
+    {
+      "No": 146,
+      "DevNo": 1,
+      "RegNo": 18124,
+      "Name": "过频软压板遥控投退(电源侧)",
+      "ModeName": "YK_23",
+      "DataType": 2
+    },
+    {
+      "No": 147,
+      "DevNo": 1,
+      "RegNo": 18125,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_24",
+      "DataType": 2
+    },
+    {
+      "No": 148,
+      "DevNo": 1,
+      "RegNo": 18126,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_25",
+      "DataType": 2
+    },
+    {
+      "No": 149,
+      "DevNo": 1,
+      "RegNo": 18127,
+      "Name": "低频软压板遥控投退(负荷侧)",
+      "ModeName": "YK_26",
+      "DataType": 2
+    },
+    {
+      "No": 150,
+      "DevNo": 1,
+      "RegNo": 18128,
+      "Name": "低频软压板遥控投退(电源侧)",
+      "ModeName": "YK_27",
+      "DataType": 2
+    },
+    {
+      "No": 151,
+      "DevNo": 1,
+      "RegNo": 18129,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_28",
+      "DataType": 2
+    },
+    {
+      "No": 152,
+      "DevNo": 1,
+      "RegNo": 18130,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_29",
+      "DataType": 2
+    },
+    {
+      "No": 153,
+      "DevNo": 1,
+      "RegNo": 18131,
+      "Name": "过载软压板遥控投退(负荷侧)",
+      "ModeName": "YK_30",
+      "DataType": 2
+    },
+    {
+      "No": 154,
+      "DevNo": 1,
+      "RegNo": 18132,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_31",
+      "DataType": 2
+    },
+    {
+      "No": 155,
+      "DevNo": 1,
+      "RegNo": 18133,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_32",
+      "DataType": 2
+    },
+    {
+      "No": 156,
+      "DevNo": 1,
+      "RegNo": 18134,
+      "Name": "预留_软压板遥控投退",
+      "ModeName": "YK_33",
+      "DataType": 2
+    }
+  ],
+  "MqttIP": "localhost",
+  "MqttPort": "1883",
+  "AppName": "e9361appGetProtect",
+  "CommunicationAppName": "ProtectApp"
+}
