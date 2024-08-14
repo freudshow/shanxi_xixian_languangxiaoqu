@@ -1,0 +1,686 @@
+{
+  "Period": 50,
+  "dataset": [
+    {
+      "DevIndex": 0,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 673,
+          "Desc": "设备[1]-综保1_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 751,
+          "Desc": "设备[0]-综保1_速断跳闸",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "16"
+        },
+        {
+          "RtdbNo": 752,
+          "Desc": "设备[0]-综保1_过流1跳闸",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "32"
+        },
+        {
+          "RtdbNo": 753,
+          "Desc": "设备[0]-综保1_过流2跳闸",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "48"
+        },
+        {
+          "RtdbNo": 754,
+          "Desc": "设备[0]-综保1_零序过流跳闸　",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "65"
+        },
+        {
+          "RtdbNo": 755,
+          "Desc": "设备[0]-综保1_零序过流告警",
+          "Type": 0,
+          "No": 5,
+          "InputOutPut": 1,
+          "SelectData": "66"
+        },
+        {
+          "RtdbNo": 756,
+          "Desc": "设备[0]-综保1_过负荷跳闸",
+          "Type": 0,
+          "No": 6,
+          "InputOutPut": 1,
+          "SelectData": "68"
+        },
+        {
+          "RtdbNo": 757,
+          "Desc": "设备[0]-综保1_过负荷告警",
+          "Type": 0,
+          "No": 7,
+          "InputOutPut": 1,
+          "SelectData": "69"
+        },
+        {
+          "RtdbNo": 758,
+          "Desc": "设备[0]-综保1_后加速跳闸",
+          "Type": 0,
+          "No": 8,
+          "InputOutPut": 1,
+          "SelectData": "72"
+        },
+        {
+          "RtdbNo": 759,
+          "Desc": "设备[0]-综保1_反时限过流跳闸",
+          "Type": 0,
+          "No": 9,
+          "InputOutPut": 1,
+          "SelectData": "73"
+        }
+      ]
+    },
+    {
+      "DevIndex": 1,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 673,
+          "Desc": "设备[1]-综保1_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 760,
+          "Desc": "设备[0]-综保1_低压跳闸",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "80"
+        },
+        {
+          "RtdbNo": 761,
+          "Desc": "设备[0]-综保1_低压告警",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "81"
+        },
+        {
+          "RtdbNo": 762,
+          "Desc": "设备[0]-综保1_过压跳闸",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "82"
+        },
+        {
+          "RtdbNo": 763,
+          "Desc": "设备[0]-综保1_过压告警",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "83"
+        },
+        {
+          "RtdbNo": 764,
+          "Desc": "设备[0]-综保1_PT断线告警",
+          "Type": 0,
+          "No": 5,
+          "InputOutPut": 1,
+          "SelectData": "84"
+        },
+        {
+          "RtdbNo": 765,
+          "Desc": "设备[0]-综保1_零序电压跳闸",
+          "Type": 0,
+          "No": 6,
+          "InputOutPut": 1,
+          "SelectData": "85"
+        },
+        {
+          "RtdbNo": 766,
+          "Desc": "设备[0]-综保1_零序电压告警",
+          "Type": 0,
+          "No": 7,
+          "InputOutPut": 1,
+          "SelectData": "86"
+        },
+        {
+          "RtdbNo": 767,
+          "Desc": "设备[0]-综保1_非电量1跳闸",
+          "Type": 0,
+          "No": 8,
+          "InputOutPut": 1,
+          "SelectData": "144"
+        },
+        {
+          "RtdbNo": 768,
+          "Desc": "设备[0]-综保1_非电量2跳闸",
+          "Type": 0,
+          "No": 9,
+          "InputOutPut": 1,
+          "SelectData": "145"
+        },
+        {
+          "RtdbNo": 769,
+          "Desc": "设备[0]-综保1_非电量3告警",
+          "Type": 0,
+          "No": 10,
+          "InputOutPut": 1,
+          "SelectData": "146"
+        }
+      ]
+    },
+    {
+      "DevIndex": 2,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 673,
+          "Desc": "设备[1]-综保1_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 770,
+          "Desc": "设备[0]-综保1_非电量4告警",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "147"
+        },
+        {
+          "RtdbNo": 771,
+          "Desc": "设备[0]-综保1_重合闸",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "149"
+        },
+        {
+          "RtdbNo": 772,
+          "Desc": "设备[0]-综保1_控制回路断线",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "133"
+        }
+      ]
+    },
+    {
+      "DevIndex": 3,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 707,
+          "Desc": "设备[2]-综保2_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 793,
+          "Desc": "设备[1]-综保2_速断跳闸",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "16"
+        },
+        {
+          "RtdbNo": 794,
+          "Desc": "设备[1]-综保2_过流1跳闸",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "32"
+        },
+        {
+          "RtdbNo": 795,
+          "Desc": "设备[1]-综保2_过流2跳闸",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "48"
+        },
+        {
+          "RtdbNo": 796,
+          "Desc": "设备[1]-综保2_零序过流跳闸　",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "65"
+        },
+        {
+          "RtdbNo": 797,
+          "Desc": "设备[1]-综保2_零序过流告警",
+          "Type": 0,
+          "No": 5,
+          "InputOutPut": 1,
+          "SelectData": "66"
+        },
+        {
+          "RtdbNo": 798,
+          "Desc": "设备[1]-综保2_过负荷跳闸",
+          "Type": 0,
+          "No": 6,
+          "InputOutPut": 1,
+          "SelectData": "68"
+        },
+        {
+          "RtdbNo": 799,
+          "Desc": "设备[1]-综保2_过负荷告警",
+          "Type": 0,
+          "No": 7,
+          "InputOutPut": 1,
+          "SelectData": "69"
+        },
+        {
+          "RtdbNo": 800,
+          "Desc": "设备[1]-综保2_后加速跳闸",
+          "Type": 0,
+          "No": 8,
+          "InputOutPut": 1,
+          "SelectData": "72"
+        },
+        {
+          "RtdbNo": 801,
+          "Desc": "设备[1]-综保2_反时限过流跳闸",
+          "Type": 0,
+          "No": 9,
+          "InputOutPut": 1,
+          "SelectData": "73"
+        },
+        {
+          "RtdbNo": 802,
+          "Desc": "设备[1]-综保2_低压跳闸",
+          "Type": 0,
+          "No": 10,
+          "InputOutPut": 1,
+          "SelectData": "80"
+        }
+      ]
+    },
+    {
+      "DevIndex": 4,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 707,
+          "Desc": "设备[2]-综保2_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 803,
+          "Desc": "设备[1]-综保2_低压告警",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "81"
+        },
+        {
+          "RtdbNo": 804,
+          "Desc": "设备[1]-综保2_过压跳闸",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "82"
+        },
+        {
+          "RtdbNo": 805,
+          "Desc": "设备[1]-综保2_过压告警",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "83"
+        },
+        {
+          "RtdbNo": 806,
+          "Desc": "设备[1]-综保2_PT断线告警",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "84"
+        },
+        {
+          "RtdbNo": 807,
+          "Desc": "设备[1]-综保2_零序电压跳闸",
+          "Type": 0,
+          "No": 5,
+          "InputOutPut": 1,
+          "SelectData": "85"
+        },
+        {
+          "RtdbNo": 808,
+          "Desc": "设备[1]-综保2_零序电压告警",
+          "Type": 0,
+          "No": 6,
+          "InputOutPut": 1,
+          "SelectData": "86"
+        },
+        {
+          "RtdbNo": 809,
+          "Desc": "设备[1]-综保2_非电量1跳闸",
+          "Type": 0,
+          "No": 7,
+          "InputOutPut": 1,
+          "SelectData": "144"
+        },
+        {
+          "RtdbNo": 810,
+          "Desc": "设备[1]-综保2_非电量2跳闸",
+          "Type": 0,
+          "No": 8,
+          "InputOutPut": 1,
+          "SelectData": "145"
+        },
+        {
+          "RtdbNo": 811,
+          "Desc": "设备[1]-综保2_非电量3告警",
+          "Type": 0,
+          "No": 9,
+          "InputOutPut": 1,
+          "SelectData": "146"
+        },
+        {
+          "RtdbNo": 812,
+          "Desc": "设备[1]-综保2_非电量4告警",
+          "Type": 0,
+          "No": 10,
+          "InputOutPut": 1,
+          "SelectData": "147"
+        }
+      ]
+    },
+    {
+      "DevIndex": 5,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 707,
+          "Desc": "设备[2]-综保2_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 813,
+          "Desc": "设备[1]-综保2_重合闸",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "149"
+        },
+        {
+          "RtdbNo": 814,
+          "Desc": "设备[1]-综保2_控制回路断线",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "133"
+        }
+      ]
+    },
+    {
+      "DevIndex": 6,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 741,
+          "Desc": "设备[3]-综保3_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 835,
+          "Desc": "设备[2]-综保3_速断跳闸",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "16"
+        },
+        {
+          "RtdbNo": 836,
+          "Desc": "设备[2]-综保3_过流1跳闸",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "32"
+        },
+        {
+          "RtdbNo": 837,
+          "Desc": "设备[2]-综保3_过流2跳闸",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "48"
+        },
+        {
+          "RtdbNo": 838,
+          "Desc": "设备[2]-综保3_零序过流跳闸　",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "65"
+        },
+        {
+          "RtdbNo": 839,
+          "Desc": "设备[2]-综保3_零序过流告警",
+          "Type": 0,
+          "No": 5,
+          "InputOutPut": 1,
+          "SelectData": "66"
+        },
+        {
+          "RtdbNo": 840,
+          "Desc": "设备[2]-综保3_过负荷跳闸",
+          "Type": 0,
+          "No": 6,
+          "InputOutPut": 1,
+          "SelectData": "68"
+        },
+        {
+          "RtdbNo": 841,
+          "Desc": "设备[2]-综保3_过负荷告警",
+          "Type": 0,
+          "No": 7,
+          "InputOutPut": 1,
+          "SelectData": "69"
+        },
+        {
+          "RtdbNo": 842,
+          "Desc": "设备[2]-综保3_后加速跳闸",
+          "Type": 0,
+          "No": 8,
+          "InputOutPut": 1,
+          "SelectData": "72"
+        },
+        {
+          "RtdbNo": 843,
+          "Desc": "设备[2]-综保3_反时限过流跳闸",
+          "Type": 0,
+          "No": 9,
+          "InputOutPut": 1,
+          "SelectData": "73"
+        },
+        {
+          "RtdbNo": 844,
+          "Desc": "设备[2]-综保3_低压跳闸",
+          "Type": 0,
+          "No": 10,
+          "InputOutPut": 1,
+          "SelectData": "80"
+        }
+      ]
+    },
+    {
+      "DevIndex": 7,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 741,
+          "Desc": "设备[3]-综保3_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 845,
+          "Desc": "设备[2]-综保3_低压告警",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "81"
+        },
+        {
+          "RtdbNo": 846,
+          "Desc": "设备[2]-综保3_过压跳闸",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "82"
+        },
+        {
+          "RtdbNo": 847,
+          "Desc": "设备[2]-综保3_过压告警",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "83"
+        },
+        {
+          "RtdbNo": 848,
+          "Desc": "设备[2]-综保3_PT断线告警",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "84"
+        },
+        {
+          "RtdbNo": 849,
+          "Desc": "设备[2]-综保3_零序电压跳闸",
+          "Type": 0,
+          "No": 5,
+          "InputOutPut": 1,
+          "SelectData": "85"
+        },
+        {
+          "RtdbNo": 850,
+          "Desc": "设备[2]-综保3_零序电压告警",
+          "Type": 0,
+          "No": 6,
+          "InputOutPut": 1,
+          "SelectData": "86"
+        },
+        {
+          "RtdbNo": 851,
+          "Desc": "设备[2]-综保3_非电量1跳闸",
+          "Type": 0,
+          "No": 7,
+          "InputOutPut": 1,
+          "SelectData": "144"
+        },
+        {
+          "RtdbNo": 852,
+          "Desc": "设备[2]-综保3_非电量2跳闸",
+          "Type": 0,
+          "No": 8,
+          "InputOutPut": 1,
+          "SelectData": "145"
+        },
+        {
+          "RtdbNo": 853,
+          "Desc": "设备[2]-综保3_非电量3告警",
+          "Type": 0,
+          "No": 9,
+          "InputOutPut": 1,
+          "SelectData": "146"
+        },
+        {
+          "RtdbNo": 854,
+          "Desc": "设备[2]-综保3_非电量4告警",
+          "Type": 0,
+          "No": 10,
+          "InputOutPut": 1,
+          "SelectData": "147"
+        }
+      ]
+    },
+    {
+      "DevIndex": 8,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 741,
+          "Desc": "设备[3]-综保3_故障类型",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 855,
+          "Desc": "设备[2]-综保3_重合闸",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "149"
+        },
+        {
+          "RtdbNo": 856,
+          "Desc": "设备[2]-综保3_控制回路断线",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "133"
+        }
+      ]
+    }
+  ]
+}
