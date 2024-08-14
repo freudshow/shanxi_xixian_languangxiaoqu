@@ -1,0 +1,43 @@
+{
+  "TcpModeEnable": 0,
+  "ClearData": 0,
+  "SendFramePeriod": 500,
+  "dataset": [
+    {
+      "DevIndex": "0",
+      "S_link": 9,
+      "S_linkDev": 1,
+      "data": [
+        {
+          "ModbusCmd": 2,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 1,
+          "AreaNum": 0,
+          "DataProperty": 0,
+          "DataType": "ModbusDataType_bitField",
+          "LowAddr": 4096,
+          "HighAddr": 4096,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 4096,
+          "DataTypeEnum": 6,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "门锁开合",
+              "ModbusRegAddr": 4096,
+              "Reverse": 1,
+              "Bit": 0
+            }
+          ],
+          "MultiTypeList": null
+        }
+      ]
+    }
+  ]
+}
