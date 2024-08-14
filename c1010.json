@@ -1,7 +1,7 @@
 {
   "TcpModeEnable": 0,
-  "ClearData": 0,
-  "SendFramePeriod": 500,
+  "ClearData": 1,
+  "SendFramePeriod": 2000,
   "dataset": [
     {
       "DevIndex": "0",
@@ -123,6 +123,209 @@
           "DataTypeEnum": 1,
           "KeyDec": [
             "烟雾4_状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "4",
+      "S_link": 10,
+      "S_linkDev": 5,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "GetRegCount": 1,
+          "AreaNum": 0,
+          "DataProperty": 0,
+          "DataType": "ModbusDataType_u16",
+          "LowAddr": 0,
+          "HighAddr": 0,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 0,
+          "DataTypeEnum": 1,
+          "KeyDec": [
+            "水浸1状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "5",
+      "S_link": 10,
+      "S_linkDev": 6,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "GetRegCount": 1,
+          "AreaNum": 0,
+          "DataProperty": 0,
+          "DataType": "ModbusDataType_u16",
+          "LowAddr": 0,
+          "HighAddr": 0,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 0,
+          "DataTypeEnum": 1,
+          "KeyDec": [
+            "水浸2状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "6",
+      "S_link": 10,
+      "S_linkDev": 7,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 2,
+          "GetRegCount": 2,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "LowAddr": 0,
+          "HighAddr": 1,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 0,
+          "DataTypeEnum": 7,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "温湿度1_湿度",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 0,
+              "EndRegAddr": 0,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "温湿度1_温度",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1,
+              "EndRegAddr": 1,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "DevIndex": "7",
+      "S_link": 10,
+      "S_linkDev": 8,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 7,
+          "GetRegCount": 2,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "LowAddr": 0,
+          "HighAddr": 1,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 0,
+          "DataTypeEnum": 7,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "温湿度2_湿度",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 0,
+              "EndRegAddr": 0,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "温湿度2_温度",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1,
+              "EndRegAddr": 1,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "DevIndex": "8",
+      "S_link": 10,
+      "S_linkDev": 9,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 18,
+          "GetRegCount": 1,
+          "AreaNum": 0,
+          "DataProperty": 0,
+          "DataType": "ModbusDataType_u16",
+          "LowAddr": 3,
+          "HighAddr": 3,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 3,
+          "DataTypeEnum": 1,
+          "KeyDec": [
+            "红外1_报警状态"
           ],
           "KeyMode": [
             ""
