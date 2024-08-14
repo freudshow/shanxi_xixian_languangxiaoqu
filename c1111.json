@@ -1,0 +1,222 @@
+{
+  "Pad": {
+    "TotalYcCount": 17,
+    "TotalYxCount": 0,
+    "TotalYkCount": 0,
+    "TotalDDCount": 0,
+    "TotalParameterCount": 0,
+    "YcRatioEnable": 1,
+    "RecordingYkOpera": 0,
+    "LinkAddr": 1,
+    "SingleORDoubleInit": 0,
+    "LinkAddrLen": 2,
+    "VsqLen": 1,
+    "coTlen": 2,
+    "AsduLen": 2,
+    "InfoAddrLen": 2,
+    "YxType": 1,
+    "YcType": 13,
+    "DdType": 206,
+    "YkType": 45,
+    "T0TimeOut": 30,
+    "T1TimeOut": 30,
+    "T2TimeOut": 12,
+    "T3TimeOut": 20,
+    "k": 12,
+    "w": 8,
+    "baseyear": 2000,
+    "alldatainterval": 0,
+    "allddinterval": 0,
+    "setclockinterval": 0,
+    "testlinkinterval": 0,
+    "encrypt": 0,
+    "sendcos": 1,
+    "BackScan": 0,
+    "ThreadAfterSndDelayms": 100,
+    "ThreadAfterRcvDelayms": 100
+  },
+  "ParaInstruction": "v0.1运用园区",
+  "Para": [
+    {
+      "SN": 0,
+      "Running_info": [],
+      "Actionfixed_info": []
+    }
+  ],
+  "FaultEventSubmission": [],
+  "YCDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[1]-综保1_模拟量_Uab",
+      "Unit": null,
+      "Addr": 16385,
+      "Xishu": 1.0,
+      "RealDevNo": 649,
+      "type": 1,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[1]-综保1_模拟量_Ubc",
+      "Unit": null,
+      "Addr": 16386,
+      "Xishu": 1.0,
+      "RealDevNo": 650,
+      "type": 1,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[1]-综保1_模拟量_Uac",
+      "Unit": null,
+      "Addr": 16387,
+      "Xishu": 1.0,
+      "RealDevNo": 651,
+      "type": 1,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[1]-综保1_模拟量_Ua",
+      "Unit": null,
+      "Addr": 16388,
+      "Xishu": 1.0,
+      "RealDevNo": 652,
+      "type": 1,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[1]-综保1_模拟量_Ub",
+      "Unit": null,
+      "Addr": 16389,
+      "Xishu": 1.0,
+      "RealDevNo": 653,
+      "type": 1,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[1]-综保1_模拟量_Uc",
+      "Unit": null,
+      "Addr": 16390,
+      "Xishu": 1.0,
+      "RealDevNo": 654,
+      "type": 1,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[1]-综保1_模拟量_U0",
+      "Unit": null,
+      "Addr": 16391,
+      "Xishu": 1.0,
+      "RealDevNo": 655,
+      "type": 1,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[1]-综保1_模拟量_Ia",
+      "Unit": null,
+      "Addr": 16392,
+      "Xishu": 1.0,
+      "RealDevNo": 656,
+      "type": 1,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[1]-综保1_模拟量_Ib",
+      "Unit": null,
+      "Addr": 16393,
+      "Xishu": 1.0,
+      "RealDevNo": 657,
+      "type": 1,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[1]-综保1_模拟量_Ic",
+      "Unit": null,
+      "Addr": 16394,
+      "Xishu": 1.0,
+      "RealDevNo": 658,
+      "type": 1,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[1]-综保1_模拟量_I01",
+      "Unit": null,
+      "Addr": 16395,
+      "Xishu": 1.0,
+      "RealDevNo": 659,
+      "type": 1,
+      "Idx": 10
+    },
+    {
+      "No": 11,
+      "Name": "设备[1]-综保1_模拟量_I02",
+      "Unit": null,
+      "Addr": 16396,
+      "Xishu": 1.0,
+      "RealDevNo": 660,
+      "type": 1,
+      "Idx": 11
+    },
+    {
+      "No": 12,
+      "Name": "设备[1]-综保1_模拟量_I1",
+      "Unit": null,
+      "Addr": 16397,
+      "Xishu": 1.0,
+      "RealDevNo": 661,
+      "type": 1,
+      "Idx": 12
+    },
+    {
+      "No": 13,
+      "Name": "设备[1]-综保1_模拟量_I2",
+      "Unit": null,
+      "Addr": 16398,
+      "Xishu": 1.0,
+      "RealDevNo": 662,
+      "type": 1,
+      "Idx": 13
+    },
+    {
+      "No": 14,
+      "Name": "设备[1]-综保1_模拟量_P",
+      "Unit": null,
+      "Addr": 16399,
+      "Xishu": 1.0,
+      "RealDevNo": 663,
+      "type": 1,
+      "Idx": 14
+    },
+    {
+      "No": 15,
+      "Name": "设备[1]-综保1_模拟量_Q",
+      "Unit": null,
+      "Addr": 16400,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 15
+    },
+    {
+      "No": 16,
+      "Name": "设备[1]-综保1_模拟量_COS",
+      "Unit": null,
+      "Addr": 16401,
+      "Xishu": 1.0,
+      "RealDevNo": 665,
+      "type": 1,
+      "Idx": 16
+    }
+  ],
+  "YXDataItem": [],
+  "YKDataItem": [],
+  "DDDataItem": []
+}
