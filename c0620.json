@@ -1,0 +1,1269 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 15,
+  "TotalYxCount": 111,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "综保1_速断跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "综保1_过流1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "综保1_过流2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "综保1_零序过流跳闸　",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "综保1_零序过流告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "综保1_过负荷跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "综保1_过负荷告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "综保1_后加速跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "综保1_反时限过流跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "综保1_低压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "综保1_低压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "综保1_过压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "综保1_过压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "综保1_PT断线告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 0,
+      "Name": "综保1_零序电压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 0,
+      "Name": "综保1_零序电压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 16,
+      "type": 0,
+      "Name": "综保1_非电量1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 17,
+      "type": 0,
+      "Name": "综保1_非电量2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 18,
+      "type": 0,
+      "Name": "综保1_非电量3告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 19,
+      "type": 0,
+      "Name": "综保1_非电量4告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 20,
+      "type": 0,
+      "Name": "综保1_重合闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 21,
+      "type": 0,
+      "Name": "综保1_控制回路断线",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 22,
+      "type": 0,
+      "Name": "综保1_合位",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 23,
+      "type": 0,
+      "Name": "综保1_跳位",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 24,
+      "type": 0,
+      "Name": "综保1_手车试验位置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 25,
+      "type": 0,
+      "Name": "综保1_手车工作位置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 26,
+      "type": 0,
+      "Name": "综保1_接地刀",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 27,
+      "type": 0,
+      "Name": "综保1_弹簧未储能",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 28,
+      "type": 0,
+      "Name": "综保1_远方/就地",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 29,
+      "type": 0,
+      "Name": "综保1_禁重合",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 30,
+      "type": 0,
+      "Name": "综保1_非电量1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 31,
+      "type": 0,
+      "Name": "综保1_菲电量2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 32,
+      "type": 0,
+      "Name": "综保1_非电量3告彗",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 33,
+      "type": 0,
+      "Name": "综保1_非电量4告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 34,
+      "type": 0,
+      "Name": "综保1_备用开入",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 35,
+      "type": 0,
+      "Name": "综保1_备用开入",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 36,
+      "type": 0,
+      "Name": "综保1_未读取新记录标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 37,
+      "type": 1,
+      "Name": "综保1_故障发生_分",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 38,
+      "type": 1,
+      "Name": "综保1_故障发生_时",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 39,
+      "type": 1,
+      "Name": "综保1_故障发生_日",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 40,
+      "type": 1,
+      "Name": "综保1_故障发生_月",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 41,
+      "type": 1,
+      "Name": "综保1_故障发生_年",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "综保2_速断跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "综保2_过流1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "综保2_过流2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "综保2_零序过流跳闸　",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "综保2_零序过流告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "综保2_过负荷跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "综保2_过负荷告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "综保2_后加速跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "综保2_反时限过流跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "综保2_低压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "综保2_低压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "综保2_过压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "综保2_过压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "综保2_PT断线告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 14,
+      "type": 0,
+      "Name": "综保2_零序电压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 15,
+      "type": 0,
+      "Name": "综保2_零序电压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 16,
+      "type": 0,
+      "Name": "综保2_非电量1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 17,
+      "type": 0,
+      "Name": "综保2_非电量2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 18,
+      "type": 0,
+      "Name": "综保2_非电量3告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 19,
+      "type": 0,
+      "Name": "综保2_非电量4告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 20,
+      "type": 0,
+      "Name": "综保2_重合闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 21,
+      "type": 0,
+      "Name": "综保2_控制回路断线",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 22,
+      "type": 0,
+      "Name": "综保2_合位",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 23,
+      "type": 0,
+      "Name": "综保2_跳位",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 24,
+      "type": 0,
+      "Name": "综保2_手车试验位置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 25,
+      "type": 0,
+      "Name": "综保2_手车工作位置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 26,
+      "type": 0,
+      "Name": "综保2_接地刀",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 27,
+      "type": 0,
+      "Name": "综保2_弹簧未储能",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 28,
+      "type": 0,
+      "Name": "综保2_远方/就地",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 29,
+      "type": 0,
+      "Name": "综保2_禁重合",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 30,
+      "type": 0,
+      "Name": "综保2_非电量1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 31,
+      "type": 0,
+      "Name": "综保2_菲电量2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 32,
+      "type": 0,
+      "Name": "综保2_非电量3告彗",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 33,
+      "type": 0,
+      "Name": "综保2_非电量4告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 34,
+      "type": 0,
+      "Name": "综保2_备用开入",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 35,
+      "type": 0,
+      "Name": "综保2_备用开入",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 36,
+      "type": 0,
+      "Name": "综保2_未读取新记录标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 37,
+      "type": 1,
+      "Name": "综保2_故障发生_分",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 38,
+      "type": 1,
+      "Name": "综保2_故障发生_时",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 39,
+      "type": 1,
+      "Name": "综保2_故障发生_日",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 40,
+      "type": 1,
+      "Name": "综保2_故障发生_月",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 41,
+      "type": 1,
+      "Name": "综保2_故障发生_年",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "综保3_速断跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "综保3_过流1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "综保3_过流2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "综保3_零序过流跳闸　",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "综保3_零序过流告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "综保3_过负荷跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "综保3_过负荷告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "综保3_后加速跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "综保3_反时限过流跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "综保3_低压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "综保3_低压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "综保3_过压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "综保3_过压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "综保3_PT断线告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 14,
+      "type": 0,
+      "Name": "综保3_零序电压跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 15,
+      "type": 0,
+      "Name": "综保3_零序电压告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 16,
+      "type": 0,
+      "Name": "综保3_非电量1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 17,
+      "type": 0,
+      "Name": "综保3_非电量2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 18,
+      "type": 0,
+      "Name": "综保3_非电量3告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 19,
+      "type": 0,
+      "Name": "综保3_非电量4告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 20,
+      "type": 0,
+      "Name": "综保3_重合闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 21,
+      "type": 0,
+      "Name": "综保3_控制回路断线",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 22,
+      "type": 0,
+      "Name": "综保3_合位",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 23,
+      "type": 0,
+      "Name": "综保3_跳位",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 24,
+      "type": 0,
+      "Name": "综保3_手车试验位置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 25,
+      "type": 0,
+      "Name": "综保3_手车工作位置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 26,
+      "type": 0,
+      "Name": "综保3_接地刀",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 27,
+      "type": 0,
+      "Name": "综保3_弹簧未储能",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 28,
+      "type": 0,
+      "Name": "综保3_远方/就地",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 29,
+      "type": 0,
+      "Name": "综保3_禁重合",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 30,
+      "type": 0,
+      "Name": "综保3_非电量1跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 31,
+      "type": 0,
+      "Name": "综保3_菲电量2跳闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 32,
+      "type": 0,
+      "Name": "综保3_非电量3告彗",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 33,
+      "type": 0,
+      "Name": "综保3_非电量4告警",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 34,
+      "type": 0,
+      "Name": "综保3_备用开入",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 35,
+      "type": 0,
+      "Name": "综保3_备用开入",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 36,
+      "type": 0,
+      "Name": "综保3_未读取新记录标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 37,
+      "type": 1,
+      "Name": "综保3_故障发生_分",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 38,
+      "type": 1,
+      "Name": "综保3_故障发生_时",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 39,
+      "type": 1,
+      "Name": "综保3_故障发生_日",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 40,
+      "type": 1,
+      "Name": "综保3_故障发生_月",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 41,
+      "type": 1,
+      "Name": "综保3_故障发生_年",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
