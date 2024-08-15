@@ -2,7 +2,7 @@
   "Pad": {
     "TotalYcCount": 59,
     "TotalYxCount": 119,
-    "TotalYkCount": 0,
+    "TotalYkCount": 14,
     "TotalDDCount": 0,
     "TotalParameterCount": 0,
     "YcRatioEnable": 1,
@@ -1828,6 +1828,175 @@
       "Idx": 118
     }
   ],
-  "YKDataItem": [],
+  "YKDataItem": [
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 0,
+      "Name": "设备[0]-综保1_复归合",
+      "Unit": null,
+      "Addr": 24577,
+      "RealDevNo": 101,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 1,
+      "Name": "设备[0]-综保1_复归占位",
+      "Unit": null,
+      "Addr": 24577,
+      "RealDevNo": 102,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 2,
+      "Name": "设备[0]-综保1_分闸",
+      "Unit": null,
+      "Addr": 24578,
+      "RealDevNo": 103,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 3,
+      "Name": "设备[0]-综保1_合闸",
+      "Unit": null,
+      "Addr": 24578,
+      "RealDevNo": 104,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 4,
+      "Name": "设备[0]-综保2_复归合",
+      "Unit": null,
+      "Addr": 24579,
+      "RealDevNo": 105,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 5,
+      "Name": "设备[0]-综保2_复归占位",
+      "Unit": null,
+      "Addr": 24579,
+      "RealDevNo": 106,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 6,
+      "Name": "设备[0]-综保2_分闸",
+      "Unit": null,
+      "Addr": 24580,
+      "RealDevNo": 107,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 7,
+      "Name": "设备[0]-综保2_合闸",
+      "Unit": null,
+      "Addr": 24580,
+      "RealDevNo": 108,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 8,
+      "Name": "设备[0]-综保3_复归合",
+      "Unit": null,
+      "Addr": 24581,
+      "RealDevNo": 109,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 9,
+      "Name": "设备[0]-综保3_复归占位",
+      "Unit": null,
+      "Addr": 24581,
+      "RealDevNo": 110,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 10,
+      "Name": "设备[0]-综保3_分闸",
+      "Unit": null,
+      "Addr": 24582,
+      "RealDevNo": 111,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 11,
+      "Name": "设备[0]-综保3_合闸",
+      "Unit": null,
+      "Addr": 24582,
+      "RealDevNo": 112,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 12,
+      "Name": "设备[0]-门禁开锁",
+      "Unit": null,
+      "Addr": 24583,
+      "RealDevNo": 113,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 13,
+      "Name": "设备[0]-门禁关锁",
+      "Unit": null,
+      "Addr": 24583,
+      "RealDevNo": 114,
+      "type": 2,
+      "Idx": 0
+    }
+  ],
   "DDDataItem": []
 }

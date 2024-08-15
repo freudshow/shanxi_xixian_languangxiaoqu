@@ -1,7 +1,7 @@
 {
   "applianceName": "未命名",
   "TotalYcCount": 0,
-  "TotalYxCount": 1,
+  "TotalYxCount": 103,
   "TotalYkCount": 0,
   "TotalDDCount": 0,
   "dataItem": [
@@ -11,6 +11,1026 @@
       "RegNo": 0,
       "type": 0,
       "Name": "全站事故总",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 16,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 17,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 18,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 19,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 20,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 21,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 22,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 23,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 24,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 25,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 26,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 27,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 28,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 29,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 30,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 31,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 32,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 33,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 34,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 35,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 36,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 37,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 38,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 39,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 40,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 41,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 14,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 15,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 16,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 17,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 18,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 19,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 20,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 21,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 22,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 23,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 24,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 25,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 26,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 27,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 28,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 29,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 30,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 31,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 32,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 33,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 34,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 35,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 36,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 37,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 38,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 39,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 40,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 41,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 42,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 43,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 44,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 45,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 46,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 47,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 48,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 49,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 50,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 51,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 52,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 53,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 54,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 55,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 56,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 57,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 58,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 59,
+      "type": 0,
+      "Name": "备用",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 60,
+      "type": 0,
+      "Name": "备用",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
