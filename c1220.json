@@ -1,0 +1,19 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 0,
+  "TotalYxCount": 1,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "全站事故总",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

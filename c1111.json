@@ -1,7 +1,7 @@
 {
   "Pad": {
-    "TotalYcCount": 17,
-    "TotalYxCount": 0,
+    "TotalYcCount": 59,
+    "TotalYxCount": 119,
     "TotalYkCount": 0,
     "TotalDDCount": 0,
     "TotalParameterCount": 0,
@@ -13,7 +13,7 @@
     "VsqLen": 1,
     "coTlen": 2,
     "AsduLen": 2,
-    "InfoAddrLen": 2,
+    "InfoAddrLen": 3,
     "YxType": 1,
     "YcType": 13,
     "DdType": 206,
@@ -214,9 +214,1620 @@
       "RealDevNo": 665,
       "type": 1,
       "Idx": 16
+    },
+    {
+      "No": 17,
+      "Name": "设备[1]-综保1_频率",
+      "Unit": null,
+      "Addr": 16402,
+      "Xishu": 1.0,
+      "RealDevNo": 666,
+      "type": 1,
+      "Idx": 17
+    },
+    {
+      "No": 18,
+      "Name": "设备[0]-备用遥测7",
+      "Unit": null,
+      "Addr": 16403,
+      "Xishu": 1.0,
+      "RealDevNo": 61,
+      "type": 1,
+      "Idx": 18
+    },
+    {
+      "No": 19,
+      "Name": "设备[1]-综保1_有功电度",
+      "Unit": null,
+      "Addr": 16404,
+      "Xishu": 1.0,
+      "RealDevNo": 667,
+      "type": 1,
+      "Idx": 19
+    },
+    {
+      "No": 20,
+      "Name": "设备[0]-备用遥测8",
+      "Unit": null,
+      "Addr": 16405,
+      "Xishu": 1.0,
+      "RealDevNo": 62,
+      "type": 1,
+      "Idx": 20
+    },
+    {
+      "No": 21,
+      "Name": "设备[1]-综保1_无功电度",
+      "Unit": null,
+      "Addr": 16406,
+      "Xishu": 1.0,
+      "RealDevNo": 668,
+      "type": 1,
+      "Idx": 21
+    },
+    {
+      "No": 22,
+      "Name": "设备[0]-备用遥测9",
+      "Unit": null,
+      "Addr": 16407,
+      "Xishu": 1.0,
+      "RealDevNo": 63,
+      "type": 1,
+      "Idx": 22
+    },
+    {
+      "No": 23,
+      "Name": "设备[2]-综保2_模拟量_Ia",
+      "Unit": null,
+      "Addr": 16408,
+      "Xishu": 1.0,
+      "RealDevNo": 690,
+      "type": 1,
+      "Idx": 23
+    },
+    {
+      "No": 24,
+      "Name": "设备[2]-综保2_模拟量_Ib",
+      "Unit": null,
+      "Addr": 16409,
+      "Xishu": 1.0,
+      "RealDevNo": 691,
+      "type": 1,
+      "Idx": 24
+    },
+    {
+      "No": 25,
+      "Name": "设备[2]-综保2_模拟量_Ic",
+      "Unit": null,
+      "Addr": 16410,
+      "Xishu": 1.0,
+      "RealDevNo": 692,
+      "type": 1,
+      "Idx": 25
+    },
+    {
+      "No": 26,
+      "Name": "设备[2]-综保2_模拟量_I01",
+      "Unit": null,
+      "Addr": 16411,
+      "Xishu": 1.0,
+      "RealDevNo": 693,
+      "type": 1,
+      "Idx": 26
+    },
+    {
+      "No": 27,
+      "Name": "设备[2]-综保2_模拟量_I02",
+      "Unit": null,
+      "Addr": 16412,
+      "Xishu": 1.0,
+      "RealDevNo": 694,
+      "type": 1,
+      "Idx": 27
+    },
+    {
+      "No": 28,
+      "Name": "设备[2]-综保2_模拟量_I1",
+      "Unit": null,
+      "Addr": 16413,
+      "Xishu": 1.0,
+      "RealDevNo": 695,
+      "type": 1,
+      "Idx": 28
+    },
+    {
+      "No": 29,
+      "Name": "设备[2]-综保2_模拟量_I2",
+      "Unit": null,
+      "Addr": 16414,
+      "Xishu": 1.0,
+      "RealDevNo": 696,
+      "type": 1,
+      "Idx": 29
+    },
+    {
+      "No": 30,
+      "Name": "设备[2]-综保2_模拟量_P",
+      "Unit": null,
+      "Addr": 16415,
+      "Xishu": 1.0,
+      "RealDevNo": 697,
+      "type": 1,
+      "Idx": 30
+    },
+    {
+      "No": 31,
+      "Name": "设备[2]-综保2_模拟量_Q",
+      "Unit": null,
+      "Addr": 16416,
+      "Xishu": 1.0,
+      "RealDevNo": 698,
+      "type": 1,
+      "Idx": 31
+    },
+    {
+      "No": 32,
+      "Name": "设备[2]-综保2_模拟量_COS",
+      "Unit": null,
+      "Addr": 16417,
+      "Xishu": 1.0,
+      "RealDevNo": 699,
+      "type": 1,
+      "Idx": 32
+    },
+    {
+      "No": 33,
+      "Name": "设备[2]-综保2_频率",
+      "Unit": null,
+      "Addr": 16418,
+      "Xishu": 1.0,
+      "RealDevNo": 700,
+      "type": 1,
+      "Idx": 33
+    },
+    {
+      "No": 34,
+      "Name": "设备[0]-备用遥测10",
+      "Unit": null,
+      "Addr": 16419,
+      "Xishu": 1.0,
+      "RealDevNo": 64,
+      "type": 1,
+      "Idx": 34
+    },
+    {
+      "No": 35,
+      "Name": "设备[2]-综保2_有功电度",
+      "Unit": null,
+      "Addr": 16420,
+      "Xishu": 1.0,
+      "RealDevNo": 701,
+      "type": 1,
+      "Idx": 35
+    },
+    {
+      "No": 36,
+      "Name": "设备[2]-备用遥测11",
+      "Unit": null,
+      "Addr": 16421,
+      "Xishu": 1.0,
+      "RealDevNo": 144,
+      "type": 1,
+      "Idx": 36
+    },
+    {
+      "No": 37,
+      "Name": "设备[2]-综保2_无功电度",
+      "Unit": null,
+      "Addr": 16422,
+      "Xishu": 1.0,
+      "RealDevNo": 702,
+      "type": 1,
+      "Idx": 37
+    },
+    {
+      "No": 38,
+      "Name": "设备[2]-备用遥测12",
+      "Unit": null,
+      "Addr": 16423,
+      "Xishu": 1.0,
+      "RealDevNo": 145,
+      "type": 1,
+      "Idx": 38
+    },
+    {
+      "No": 39,
+      "Name": "设备[3]-综保3_模拟量_Ia",
+      "Unit": null,
+      "Addr": 16424,
+      "Xishu": 1.0,
+      "RealDevNo": 724,
+      "type": 1,
+      "Idx": 39
+    },
+    {
+      "No": 40,
+      "Name": "设备[3]-综保3_模拟量_Ib",
+      "Unit": null,
+      "Addr": 16425,
+      "Xishu": 1.0,
+      "RealDevNo": 725,
+      "type": 1,
+      "Idx": 40
+    },
+    {
+      "No": 41,
+      "Name": "设备[3]-综保3_模拟量_Ic",
+      "Unit": null,
+      "Addr": 16426,
+      "Xishu": 1.0,
+      "RealDevNo": 726,
+      "type": 1,
+      "Idx": 41
+    },
+    {
+      "No": 42,
+      "Name": "设备[3]-综保3_模拟量_I01",
+      "Unit": null,
+      "Addr": 16427,
+      "Xishu": 1.0,
+      "RealDevNo": 727,
+      "type": 1,
+      "Idx": 42
+    },
+    {
+      "No": 43,
+      "Name": "设备[3]-综保3_模拟量_I02",
+      "Unit": null,
+      "Addr": 16428,
+      "Xishu": 1.0,
+      "RealDevNo": 728,
+      "type": 1,
+      "Idx": 43
+    },
+    {
+      "No": 44,
+      "Name": "设备[3]-综保3_模拟量_I1",
+      "Unit": null,
+      "Addr": 16429,
+      "Xishu": 1.0,
+      "RealDevNo": 729,
+      "type": 1,
+      "Idx": 44
+    },
+    {
+      "No": 45,
+      "Name": "设备[3]-综保3_模拟量_I2",
+      "Unit": null,
+      "Addr": 16430,
+      "Xishu": 1.0,
+      "RealDevNo": 730,
+      "type": 1,
+      "Idx": 45
+    },
+    {
+      "No": 46,
+      "Name": "设备[3]-综保3_模拟量_P",
+      "Unit": null,
+      "Addr": 16431,
+      "Xishu": 1.0,
+      "RealDevNo": 731,
+      "type": 1,
+      "Idx": 46
+    },
+    {
+      "No": 47,
+      "Name": "设备[3]-综保3_模拟量_Q",
+      "Unit": null,
+      "Addr": 16432,
+      "Xishu": 1.0,
+      "RealDevNo": 732,
+      "type": 1,
+      "Idx": 47
+    },
+    {
+      "No": 48,
+      "Name": "设备[3]-综保3_模拟量_COS",
+      "Unit": null,
+      "Addr": 16433,
+      "Xishu": 1.0,
+      "RealDevNo": 733,
+      "type": 1,
+      "Idx": 48
+    },
+    {
+      "No": 49,
+      "Name": "设备[3]-综保3_频率",
+      "Unit": null,
+      "Addr": 16434,
+      "Xishu": 1.0,
+      "RealDevNo": 734,
+      "type": 1,
+      "Idx": 49
+    },
+    {
+      "No": 50,
+      "Name": "设备[2]-备用遥测13",
+      "Unit": null,
+      "Addr": 16435,
+      "Xishu": 1.0,
+      "RealDevNo": 146,
+      "type": 1,
+      "Idx": 50
+    },
+    {
+      "No": 51,
+      "Name": "设备[3]-综保3_有功电度",
+      "Unit": null,
+      "Addr": 16436,
+      "Xishu": 1.0,
+      "RealDevNo": 735,
+      "type": 1,
+      "Idx": 51
+    },
+    {
+      "No": 52,
+      "Name": "设备[2]-备用遥测14",
+      "Unit": null,
+      "Addr": 16437,
+      "Xishu": 1.0,
+      "RealDevNo": 147,
+      "type": 1,
+      "Idx": 52
+    },
+    {
+      "No": 53,
+      "Name": "设备[3]-综保3_无功电度",
+      "Unit": null,
+      "Addr": 16438,
+      "Xishu": 1.0,
+      "RealDevNo": 736,
+      "type": 1,
+      "Idx": 53
+    },
+    {
+      "No": 54,
+      "Name": "设备[2]-备用遥测15",
+      "Unit": null,
+      "Addr": 16439,
+      "Xishu": 1.0,
+      "RealDevNo": 148,
+      "type": 1,
+      "Idx": 54
+    },
+    {
+      "No": 55,
+      "Name": "设备[7]-温湿度1_温度",
+      "Unit": null,
+      "Addr": 16440,
+      "Xishu": 1.0,
+      "RealDevNo": 885,
+      "type": 1,
+      "Idx": 55
+    },
+    {
+      "No": 56,
+      "Name": "设备[7]-温湿度1_湿度",
+      "Unit": null,
+      "Addr": 16441,
+      "Xishu": 1.0,
+      "RealDevNo": 884,
+      "type": 1,
+      "Idx": 56
+    },
+    {
+      "No": 57,
+      "Name": "设备[8]-温湿度2_温度",
+      "Unit": null,
+      "Addr": 16442,
+      "Xishu": 1.0,
+      "RealDevNo": 887,
+      "type": 1,
+      "Idx": 57
+    },
+    {
+      "No": 58,
+      "Name": "设备[8]-温湿度2_湿度",
+      "Unit": null,
+      "Addr": 16443,
+      "Xishu": 1.0,
+      "RealDevNo": 886,
+      "type": 1,
+      "Idx": 58
     }
   ],
-  "YXDataItem": [],
+  "YXDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-综保1_合位",
+      "Unit": null,
+      "Addr": 1,
+      "Xishu": 1.0,
+      "RealDevNo": 773,
+      "type": 0,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[0]-综保1_跳位",
+      "Unit": null,
+      "Addr": 2,
+      "Xishu": 1.0,
+      "RealDevNo": 774,
+      "type": 0,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[0]-综保1_手车试验位置",
+      "Unit": null,
+      "Addr": 3,
+      "Xishu": 1.0,
+      "RealDevNo": 775,
+      "type": 0,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[0]-综保1_手车工作位置",
+      "Unit": null,
+      "Addr": 4,
+      "Xishu": 1.0,
+      "RealDevNo": 776,
+      "type": 0,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[0]-综保1_接地刀",
+      "Unit": null,
+      "Addr": 5,
+      "Xishu": 1.0,
+      "RealDevNo": 777,
+      "type": 0,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[0]-综保1_弹簧未储能",
+      "Unit": null,
+      "Addr": 6,
+      "Xishu": 1.0,
+      "RealDevNo": 778,
+      "type": 0,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[0]-综保1_远方/就地",
+      "Unit": null,
+      "Addr": 7,
+      "Xishu": 1.0,
+      "RealDevNo": 779,
+      "type": 0,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[0]-综保1_禁重合",
+      "Unit": null,
+      "Addr": 8,
+      "Xishu": 1.0,
+      "RealDevNo": 780,
+      "type": 0,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[0]-综保1_备用开入",
+      "Unit": null,
+      "Addr": 9,
+      "Xishu": 1.0,
+      "RealDevNo": 785,
+      "type": 0,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[0]-综保1_备用开入",
+      "Unit": null,
+      "Addr": 10,
+      "Xishu": 1.0,
+      "RealDevNo": 786,
+      "type": 0,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[0]-综保1_速断跳闸",
+      "Unit": null,
+      "Addr": 11,
+      "Xishu": 1.0,
+      "RealDevNo": 751,
+      "type": 0,
+      "Idx": 10
+    },
+    {
+      "No": 11,
+      "Name": "设备[0]-综保1_过流1跳闸",
+      "Unit": null,
+      "Addr": 12,
+      "Xishu": 1.0,
+      "RealDevNo": 752,
+      "type": 0,
+      "Idx": 11
+    },
+    {
+      "No": 12,
+      "Name": "设备[0]-综保1_过流2跳闸",
+      "Unit": null,
+      "Addr": 13,
+      "Xishu": 1.0,
+      "RealDevNo": 753,
+      "type": 0,
+      "Idx": 12
+    },
+    {
+      "No": 13,
+      "Name": "设备[0]-综保1_零序过流跳闸　",
+      "Unit": null,
+      "Addr": 14,
+      "Xishu": 1.0,
+      "RealDevNo": 754,
+      "type": 0,
+      "Idx": 13
+    },
+    {
+      "No": 14,
+      "Name": "设备[0]-综保1_零序过流告警",
+      "Unit": null,
+      "Addr": 15,
+      "Xishu": 1.0,
+      "RealDevNo": 755,
+      "type": 0,
+      "Idx": 14
+    },
+    {
+      "No": 15,
+      "Name": "设备[0]-综保1_过负荷跳闸",
+      "Unit": null,
+      "Addr": 16,
+      "Xishu": 1.0,
+      "RealDevNo": 756,
+      "type": 0,
+      "Idx": 15
+    },
+    {
+      "No": 16,
+      "Name": "设备[0]-综保1_过负荷告警",
+      "Unit": null,
+      "Addr": 17,
+      "Xishu": 1.0,
+      "RealDevNo": 757,
+      "type": 0,
+      "Idx": 16
+    },
+    {
+      "No": 17,
+      "Name": "设备[0]-综保1_后加速跳闸",
+      "Unit": null,
+      "Addr": 18,
+      "Xishu": 1.0,
+      "RealDevNo": 758,
+      "type": 0,
+      "Idx": 17
+    },
+    {
+      "No": 18,
+      "Name": "设备[0]-综保1_反时限过流跳闸",
+      "Unit": null,
+      "Addr": 19,
+      "Xishu": 1.0,
+      "RealDevNo": 759,
+      "type": 0,
+      "Idx": 18
+    },
+    {
+      "No": 19,
+      "Name": "设备[0]-综保1_低压跳闸",
+      "Unit": null,
+      "Addr": 20,
+      "Xishu": 1.0,
+      "RealDevNo": 760,
+      "type": 0,
+      "Idx": 19
+    },
+    {
+      "No": 20,
+      "Name": "设备[0]-综保1_低压告警",
+      "Unit": null,
+      "Addr": 21,
+      "Xishu": 1.0,
+      "RealDevNo": 761,
+      "type": 0,
+      "Idx": 20
+    },
+    {
+      "No": 21,
+      "Name": "设备[0]-综保1_过压跳闸",
+      "Unit": null,
+      "Addr": 22,
+      "Xishu": 1.0,
+      "RealDevNo": 762,
+      "type": 0,
+      "Idx": 21
+    },
+    {
+      "No": 22,
+      "Name": "设备[0]-综保1_过压告警",
+      "Unit": null,
+      "Addr": 23,
+      "Xishu": 1.0,
+      "RealDevNo": 763,
+      "type": 0,
+      "Idx": 22
+    },
+    {
+      "No": 23,
+      "Name": "设备[0]-综保1_PT断线告警",
+      "Unit": null,
+      "Addr": 24,
+      "Xishu": 1.0,
+      "RealDevNo": 764,
+      "type": 0,
+      "Idx": 23
+    },
+    {
+      "No": 24,
+      "Name": "设备[0]-综保1_零序电压跳闸",
+      "Unit": null,
+      "Addr": 25,
+      "Xishu": 1.0,
+      "RealDevNo": 765,
+      "type": 0,
+      "Idx": 24
+    },
+    {
+      "No": 25,
+      "Name": "设备[0]-综保1_零序电压告警",
+      "Unit": null,
+      "Addr": 26,
+      "Xishu": 1.0,
+      "RealDevNo": 766,
+      "type": 0,
+      "Idx": 25
+    },
+    {
+      "No": 26,
+      "Name": "设备[0]-综保1_非电量1跳闸",
+      "Unit": null,
+      "Addr": 27,
+      "Xishu": 1.0,
+      "RealDevNo": 767,
+      "type": 0,
+      "Idx": 26
+    },
+    {
+      "No": 27,
+      "Name": "设备[0]-综保1_非电量2跳闸",
+      "Unit": null,
+      "Addr": 28,
+      "Xishu": 1.0,
+      "RealDevNo": 768,
+      "type": 0,
+      "Idx": 27
+    },
+    {
+      "No": 28,
+      "Name": "设备[0]-综保1_非电量3告警",
+      "Unit": null,
+      "Addr": 29,
+      "Xishu": 1.0,
+      "RealDevNo": 769,
+      "type": 0,
+      "Idx": 28
+    },
+    {
+      "No": 29,
+      "Name": "设备[0]-综保1_非电量4告警",
+      "Unit": null,
+      "Addr": 30,
+      "Xishu": 1.0,
+      "RealDevNo": 770,
+      "type": 0,
+      "Idx": 29
+    },
+    {
+      "No": 30,
+      "Name": "设备[0]-综保1_重合闸",
+      "Unit": null,
+      "Addr": 31,
+      "Xishu": 1.0,
+      "RealDevNo": 771,
+      "type": 0,
+      "Idx": 30
+    },
+    {
+      "No": 31,
+      "Name": "设备[0]-综保1_控制回路断线",
+      "Unit": null,
+      "Addr": 32,
+      "Xishu": 1.0,
+      "RealDevNo": 772,
+      "type": 0,
+      "Idx": 31
+    },
+    {
+      "No": 32,
+      "Name": "设备[1]-综保2_合位",
+      "Unit": null,
+      "Addr": 33,
+      "Xishu": 1.0,
+      "RealDevNo": 815,
+      "type": 0,
+      "Idx": 32
+    },
+    {
+      "No": 33,
+      "Name": "设备[1]-综保2_跳位",
+      "Unit": null,
+      "Addr": 34,
+      "Xishu": 1.0,
+      "RealDevNo": 816,
+      "type": 0,
+      "Idx": 33
+    },
+    {
+      "No": 34,
+      "Name": "设备[1]-综保2_手车试验位置",
+      "Unit": null,
+      "Addr": 35,
+      "Xishu": 1.0,
+      "RealDevNo": 817,
+      "type": 0,
+      "Idx": 34
+    },
+    {
+      "No": 35,
+      "Name": "设备[1]-综保2_手车工作位置",
+      "Unit": null,
+      "Addr": 36,
+      "Xishu": 1.0,
+      "RealDevNo": 818,
+      "type": 0,
+      "Idx": 35
+    },
+    {
+      "No": 36,
+      "Name": "设备[1]-综保2_接地刀",
+      "Unit": null,
+      "Addr": 37,
+      "Xishu": 1.0,
+      "RealDevNo": 819,
+      "type": 0,
+      "Idx": 36
+    },
+    {
+      "No": 37,
+      "Name": "设备[1]-综保2_弹簧未储能",
+      "Unit": null,
+      "Addr": 38,
+      "Xishu": 1.0,
+      "RealDevNo": 820,
+      "type": 0,
+      "Idx": 37
+    },
+    {
+      "No": 38,
+      "Name": "设备[1]-综保2_远方/就地",
+      "Unit": null,
+      "Addr": 39,
+      "Xishu": 1.0,
+      "RealDevNo": 821,
+      "type": 0,
+      "Idx": 38
+    },
+    {
+      "No": 39,
+      "Name": "设备[1]-综保2_禁重合",
+      "Unit": null,
+      "Addr": 40,
+      "Xishu": 1.0,
+      "RealDevNo": 822,
+      "type": 0,
+      "Idx": 39
+    },
+    {
+      "No": 40,
+      "Name": "设备[1]-综保2_备用开入",
+      "Unit": null,
+      "Addr": 41,
+      "Xishu": 1.0,
+      "RealDevNo": 827,
+      "type": 0,
+      "Idx": 40
+    },
+    {
+      "No": 41,
+      "Name": "设备[1]-综保2_备用开入",
+      "Unit": null,
+      "Addr": 42,
+      "Xishu": 1.0,
+      "RealDevNo": 828,
+      "type": 0,
+      "Idx": 41
+    },
+    {
+      "No": 42,
+      "Name": "设备[1]-综保2_速断跳闸",
+      "Unit": null,
+      "Addr": 43,
+      "Xishu": 1.0,
+      "RealDevNo": 793,
+      "type": 0,
+      "Idx": 42
+    },
+    {
+      "No": 43,
+      "Name": "设备[1]-综保2_过流1跳闸",
+      "Unit": null,
+      "Addr": 44,
+      "Xishu": 1.0,
+      "RealDevNo": 794,
+      "type": 0,
+      "Idx": 43
+    },
+    {
+      "No": 44,
+      "Name": "设备[1]-综保2_过流2跳闸",
+      "Unit": null,
+      "Addr": 45,
+      "Xishu": 1.0,
+      "RealDevNo": 795,
+      "type": 0,
+      "Idx": 44
+    },
+    {
+      "No": 45,
+      "Name": "设备[1]-综保2_零序过流跳闸　",
+      "Unit": null,
+      "Addr": 46,
+      "Xishu": 1.0,
+      "RealDevNo": 796,
+      "type": 0,
+      "Idx": 45
+    },
+    {
+      "No": 46,
+      "Name": "设备[1]-综保2_零序过流告警",
+      "Unit": null,
+      "Addr": 47,
+      "Xishu": 1.0,
+      "RealDevNo": 797,
+      "type": 0,
+      "Idx": 46
+    },
+    {
+      "No": 47,
+      "Name": "设备[1]-综保2_过负荷跳闸",
+      "Unit": null,
+      "Addr": 48,
+      "Xishu": 1.0,
+      "RealDevNo": 798,
+      "type": 0,
+      "Idx": 47
+    },
+    {
+      "No": 48,
+      "Name": "设备[1]-综保2_过负荷告警",
+      "Unit": null,
+      "Addr": 49,
+      "Xishu": 1.0,
+      "RealDevNo": 799,
+      "type": 0,
+      "Idx": 48
+    },
+    {
+      "No": 49,
+      "Name": "设备[1]-综保2_后加速跳闸",
+      "Unit": null,
+      "Addr": 50,
+      "Xishu": 1.0,
+      "RealDevNo": 800,
+      "type": 0,
+      "Idx": 49
+    },
+    {
+      "No": 50,
+      "Name": "设备[1]-综保2_反时限过流跳闸",
+      "Unit": null,
+      "Addr": 51,
+      "Xishu": 1.0,
+      "RealDevNo": 801,
+      "type": 0,
+      "Idx": 50
+    },
+    {
+      "No": 51,
+      "Name": "设备[1]-综保2_低压跳闸",
+      "Unit": null,
+      "Addr": 52,
+      "Xishu": 1.0,
+      "RealDevNo": 802,
+      "type": 0,
+      "Idx": 51
+    },
+    {
+      "No": 52,
+      "Name": "设备[1]-综保2_低压告警",
+      "Unit": null,
+      "Addr": 53,
+      "Xishu": 1.0,
+      "RealDevNo": 803,
+      "type": 0,
+      "Idx": 52
+    },
+    {
+      "No": 53,
+      "Name": "设备[1]-综保2_过压跳闸",
+      "Unit": null,
+      "Addr": 54,
+      "Xishu": 1.0,
+      "RealDevNo": 804,
+      "type": 0,
+      "Idx": 53
+    },
+    {
+      "No": 54,
+      "Name": "设备[1]-综保2_过压告警",
+      "Unit": null,
+      "Addr": 55,
+      "Xishu": 1.0,
+      "RealDevNo": 805,
+      "type": 0,
+      "Idx": 54
+    },
+    {
+      "No": 55,
+      "Name": "设备[1]-综保2_PT断线告警",
+      "Unit": null,
+      "Addr": 56,
+      "Xishu": 1.0,
+      "RealDevNo": 806,
+      "type": 0,
+      "Idx": 55
+    },
+    {
+      "No": 56,
+      "Name": "设备[1]-综保2_零序电压跳闸",
+      "Unit": null,
+      "Addr": 57,
+      "Xishu": 1.0,
+      "RealDevNo": 807,
+      "type": 0,
+      "Idx": 56
+    },
+    {
+      "No": 57,
+      "Name": "设备[1]-综保2_零序电压告警",
+      "Unit": null,
+      "Addr": 58,
+      "Xishu": 1.0,
+      "RealDevNo": 808,
+      "type": 0,
+      "Idx": 57
+    },
+    {
+      "No": 58,
+      "Name": "设备[1]-综保2_非电量1跳闸",
+      "Unit": null,
+      "Addr": 59,
+      "Xishu": 1.0,
+      "RealDevNo": 809,
+      "type": 0,
+      "Idx": 58
+    },
+    {
+      "No": 59,
+      "Name": "设备[1]-综保2_非电量2跳闸",
+      "Unit": null,
+      "Addr": 60,
+      "Xishu": 1.0,
+      "RealDevNo": 810,
+      "type": 0,
+      "Idx": 59
+    },
+    {
+      "No": 60,
+      "Name": "设备[1]-综保2_非电量3告警",
+      "Unit": null,
+      "Addr": 61,
+      "Xishu": 1.0,
+      "RealDevNo": 811,
+      "type": 0,
+      "Idx": 60
+    },
+    {
+      "No": 61,
+      "Name": "设备[1]-综保2_非电量4告警",
+      "Unit": null,
+      "Addr": 62,
+      "Xishu": 1.0,
+      "RealDevNo": 812,
+      "type": 0,
+      "Idx": 61
+    },
+    {
+      "No": 62,
+      "Name": "设备[1]-综保2_重合闸",
+      "Unit": null,
+      "Addr": 63,
+      "Xishu": 1.0,
+      "RealDevNo": 813,
+      "type": 0,
+      "Idx": 62
+    },
+    {
+      "No": 63,
+      "Name": "设备[1]-综保2_控制回路断线",
+      "Unit": null,
+      "Addr": 64,
+      "Xishu": 1.0,
+      "RealDevNo": 814,
+      "type": 0,
+      "Idx": 63
+    },
+    {
+      "No": 64,
+      "Name": "设备[2]-综保3_合位",
+      "Unit": null,
+      "Addr": 65,
+      "Xishu": 1.0,
+      "RealDevNo": 857,
+      "type": 0,
+      "Idx": 64
+    },
+    {
+      "No": 65,
+      "Name": "设备[2]-综保3_跳位",
+      "Unit": null,
+      "Addr": 66,
+      "Xishu": 1.0,
+      "RealDevNo": 858,
+      "type": 0,
+      "Idx": 65
+    },
+    {
+      "No": 66,
+      "Name": "设备[2]-综保3_手车试验位置",
+      "Unit": null,
+      "Addr": 67,
+      "Xishu": 1.0,
+      "RealDevNo": 859,
+      "type": 0,
+      "Idx": 66
+    },
+    {
+      "No": 67,
+      "Name": "设备[2]-综保3_手车工作位置",
+      "Unit": null,
+      "Addr": 68,
+      "Xishu": 1.0,
+      "RealDevNo": 860,
+      "type": 0,
+      "Idx": 67
+    },
+    {
+      "No": 68,
+      "Name": "设备[2]-综保3_接地刀",
+      "Unit": null,
+      "Addr": 69,
+      "Xishu": 1.0,
+      "RealDevNo": 861,
+      "type": 0,
+      "Idx": 68
+    },
+    {
+      "No": 69,
+      "Name": "设备[2]-综保3_弹簧未储能",
+      "Unit": null,
+      "Addr": 70,
+      "Xishu": 1.0,
+      "RealDevNo": 862,
+      "type": 0,
+      "Idx": 69
+    },
+    {
+      "No": 70,
+      "Name": "设备[2]-综保3_远方/就地",
+      "Unit": null,
+      "Addr": 71,
+      "Xishu": 1.0,
+      "RealDevNo": 863,
+      "type": 0,
+      "Idx": 70
+    },
+    {
+      "No": 71,
+      "Name": "设备[2]-综保3_禁重合",
+      "Unit": null,
+      "Addr": 72,
+      "Xishu": 1.0,
+      "RealDevNo": 864,
+      "type": 0,
+      "Idx": 71
+    },
+    {
+      "No": 72,
+      "Name": "设备[2]-综保3_备用开入",
+      "Unit": null,
+      "Addr": 73,
+      "Xishu": 1.0,
+      "RealDevNo": 869,
+      "type": 0,
+      "Idx": 72
+    },
+    {
+      "No": 73,
+      "Name": "设备[2]-综保3_备用开入",
+      "Unit": null,
+      "Addr": 74,
+      "Xishu": 1.0,
+      "RealDevNo": 870,
+      "type": 0,
+      "Idx": 73
+    },
+    {
+      "No": 74,
+      "Name": "设备[2]-综保3_速断跳闸",
+      "Unit": null,
+      "Addr": 75,
+      "Xishu": 1.0,
+      "RealDevNo": 835,
+      "type": 0,
+      "Idx": 74
+    },
+    {
+      "No": 75,
+      "Name": "设备[2]-综保3_过流1跳闸",
+      "Unit": null,
+      "Addr": 76,
+      "Xishu": 1.0,
+      "RealDevNo": 836,
+      "type": 0,
+      "Idx": 75
+    },
+    {
+      "No": 76,
+      "Name": "设备[2]-综保3_过流2跳闸",
+      "Unit": null,
+      "Addr": 77,
+      "Xishu": 1.0,
+      "RealDevNo": 837,
+      "type": 0,
+      "Idx": 76
+    },
+    {
+      "No": 77,
+      "Name": "设备[2]-综保3_零序过流跳闸　",
+      "Unit": null,
+      "Addr": 78,
+      "Xishu": 1.0,
+      "RealDevNo": 838,
+      "type": 0,
+      "Idx": 77
+    },
+    {
+      "No": 78,
+      "Name": "设备[2]-综保3_零序过流告警",
+      "Unit": null,
+      "Addr": 79,
+      "Xishu": 1.0,
+      "RealDevNo": 839,
+      "type": 0,
+      "Idx": 78
+    },
+    {
+      "No": 79,
+      "Name": "设备[2]-综保3_过负荷跳闸",
+      "Unit": null,
+      "Addr": 80,
+      "Xishu": 1.0,
+      "RealDevNo": 840,
+      "type": 0,
+      "Idx": 79
+    },
+    {
+      "No": 80,
+      "Name": "设备[2]-综保3_过负荷告警",
+      "Unit": null,
+      "Addr": 81,
+      "Xishu": 1.0,
+      "RealDevNo": 841,
+      "type": 0,
+      "Idx": 80
+    },
+    {
+      "No": 81,
+      "Name": "设备[2]-综保3_后加速跳闸",
+      "Unit": null,
+      "Addr": 82,
+      "Xishu": 1.0,
+      "RealDevNo": 842,
+      "type": 0,
+      "Idx": 81
+    },
+    {
+      "No": 82,
+      "Name": "设备[2]-综保3_反时限过流跳闸",
+      "Unit": null,
+      "Addr": 83,
+      "Xishu": 1.0,
+      "RealDevNo": 843,
+      "type": 0,
+      "Idx": 82
+    },
+    {
+      "No": 83,
+      "Name": "设备[2]-综保3_低压跳闸",
+      "Unit": null,
+      "Addr": 84,
+      "Xishu": 1.0,
+      "RealDevNo": 844,
+      "type": 0,
+      "Idx": 83
+    },
+    {
+      "No": 84,
+      "Name": "设备[2]-综保3_低压告警",
+      "Unit": null,
+      "Addr": 85,
+      "Xishu": 1.0,
+      "RealDevNo": 845,
+      "type": 0,
+      "Idx": 84
+    },
+    {
+      "No": 85,
+      "Name": "设备[2]-综保3_过压跳闸",
+      "Unit": null,
+      "Addr": 86,
+      "Xishu": 1.0,
+      "RealDevNo": 846,
+      "type": 0,
+      "Idx": 85
+    },
+    {
+      "No": 86,
+      "Name": "设备[2]-综保3_过压告警",
+      "Unit": null,
+      "Addr": 87,
+      "Xishu": 1.0,
+      "RealDevNo": 847,
+      "type": 0,
+      "Idx": 86
+    },
+    {
+      "No": 87,
+      "Name": "设备[2]-综保3_PT断线告警",
+      "Unit": null,
+      "Addr": 88,
+      "Xishu": 1.0,
+      "RealDevNo": 848,
+      "type": 0,
+      "Idx": 87
+    },
+    {
+      "No": 88,
+      "Name": "设备[2]-综保3_零序电压跳闸",
+      "Unit": null,
+      "Addr": 89,
+      "Xishu": 1.0,
+      "RealDevNo": 849,
+      "type": 0,
+      "Idx": 88
+    },
+    {
+      "No": 89,
+      "Name": "设备[2]-综保3_零序电压告警",
+      "Unit": null,
+      "Addr": 90,
+      "Xishu": 1.0,
+      "RealDevNo": 850,
+      "type": 0,
+      "Idx": 89
+    },
+    {
+      "No": 90,
+      "Name": "设备[2]-综保3_非电量1跳闸",
+      "Unit": null,
+      "Addr": 91,
+      "Xishu": 1.0,
+      "RealDevNo": 851,
+      "type": 0,
+      "Idx": 90
+    },
+    {
+      "No": 91,
+      "Name": "设备[2]-综保3_非电量2跳闸",
+      "Unit": null,
+      "Addr": 92,
+      "Xishu": 1.0,
+      "RealDevNo": 852,
+      "type": 0,
+      "Idx": 91
+    },
+    {
+      "No": 92,
+      "Name": "设备[2]-综保3_非电量3告警",
+      "Unit": null,
+      "Addr": 93,
+      "Xishu": 1.0,
+      "RealDevNo": 853,
+      "type": 0,
+      "Idx": 92
+    },
+    {
+      "No": 93,
+      "Name": "设备[2]-综保3_非电量4告警",
+      "Unit": null,
+      "Addr": 94,
+      "Xishu": 1.0,
+      "RealDevNo": 854,
+      "type": 0,
+      "Idx": 93
+    },
+    {
+      "No": 94,
+      "Name": "设备[2]-综保3_重合闸",
+      "Unit": null,
+      "Addr": 95,
+      "Xishu": 1.0,
+      "RealDevNo": 855,
+      "type": 0,
+      "Idx": 94
+    },
+    {
+      "No": 95,
+      "Name": "设备[2]-综保3_控制回路断线",
+      "Unit": null,
+      "Addr": 96,
+      "Xishu": 1.0,
+      "RealDevNo": 856,
+      "type": 0,
+      "Idx": 95
+    },
+    {
+      "No": 96,
+      "Name": "设备[0]-全站事故总",
+      "Unit": null,
+      "Addr": 97,
+      "Xishu": 1.0,
+      "RealDevNo": 889,
+      "type": 0,
+      "Idx": 96
+    },
+    {
+      "No": 97,
+      "Name": "设备[0]-综保1_未读取新记录标志",
+      "Unit": null,
+      "Addr": 98,
+      "Xishu": 1.0,
+      "RealDevNo": 787,
+      "type": 0,
+      "Idx": 97
+    },
+    {
+      "No": 98,
+      "Name": "设备[1]-综保2_未读取新记录标志",
+      "Unit": null,
+      "Addr": 99,
+      "Xishu": 1.0,
+      "RealDevNo": 829,
+      "type": 0,
+      "Idx": 98
+    },
+    {
+      "No": 99,
+      "Name": "设备[2]-综保3_未读取新记录标志",
+      "Unit": null,
+      "Addr": 100,
+      "Xishu": 1.0,
+      "RealDevNo": 871,
+      "type": 0,
+      "Idx": 99
+    },
+    {
+      "No": 100,
+      "Name": "设备[1]-烟雾1_状态",
+      "Unit": null,
+      "Addr": 101,
+      "Xishu": 1.0,
+      "RealDevNo": 878,
+      "type": 0,
+      "Idx": 100
+    },
+    {
+      "No": 101,
+      "Name": "设备[0]-虚拟遥信1",
+      "Unit": null,
+      "Addr": 102,
+      "Xishu": 1.0,
+      "RealDevNo": 30,
+      "type": 0,
+      "Idx": 101
+    },
+    {
+      "No": 102,
+      "Name": "设备[2]-烟雾2_状态",
+      "Unit": null,
+      "Addr": 103,
+      "Xishu": 1.0,
+      "RealDevNo": 879,
+      "type": 0,
+      "Idx": 102
+    },
+    {
+      "No": 103,
+      "Name": "设备[0]-虚拟遥信2",
+      "Unit": null,
+      "Addr": 104,
+      "Xishu": 1.0,
+      "RealDevNo": 31,
+      "type": 0,
+      "Idx": 103
+    },
+    {
+      "No": 104,
+      "Name": "设备[3]-烟雾3_状态",
+      "Unit": null,
+      "Addr": 105,
+      "Xishu": 1.0,
+      "RealDevNo": 880,
+      "type": 0,
+      "Idx": 104
+    },
+    {
+      "No": 105,
+      "Name": "设备[0]-虚拟遥信3",
+      "Unit": null,
+      "Addr": 106,
+      "Xishu": 1.0,
+      "RealDevNo": 32,
+      "type": 0,
+      "Idx": 105
+    },
+    {
+      "No": 106,
+      "Name": "设备[4]-烟雾4_状态",
+      "Unit": null,
+      "Addr": 107,
+      "Xishu": 1.0,
+      "RealDevNo": 881,
+      "type": 0,
+      "Idx": 106
+    },
+    {
+      "No": 107,
+      "Name": "设备[0]-虚拟遥信4",
+      "Unit": null,
+      "Addr": 108,
+      "Xishu": 1.0,
+      "RealDevNo": 33,
+      "type": 0,
+      "Idx": 107
+    },
+    {
+      "No": 108,
+      "Name": "设备[9]-红外1_报警状态",
+      "Unit": null,
+      "Addr": 109,
+      "Xishu": 1.0,
+      "RealDevNo": 888,
+      "type": 0,
+      "Idx": 108
+    },
+    {
+      "No": 109,
+      "Name": "设备[0]-虚拟遥信5",
+      "Unit": null,
+      "Addr": 110,
+      "Xishu": 1.0,
+      "RealDevNo": 34,
+      "type": 0,
+      "Idx": 109
+    },
+    {
+      "No": 110,
+      "Name": "设备[5]-水浸1状态",
+      "Unit": null,
+      "Addr": 111,
+      "Xishu": 1.0,
+      "RealDevNo": 882,
+      "type": 0,
+      "Idx": 110
+    },
+    {
+      "No": 111,
+      "Name": "设备[0]-虚拟遥信6",
+      "Unit": null,
+      "Addr": 112,
+      "Xishu": 1.0,
+      "RealDevNo": 35,
+      "type": 0,
+      "Idx": 111
+    },
+    {
+      "No": 112,
+      "Name": "设备[6]-水浸2状态",
+      "Unit": null,
+      "Addr": 113,
+      "Xishu": 1.0,
+      "RealDevNo": 883,
+      "type": 0,
+      "Idx": 112
+    },
+    {
+      "No": 113,
+      "Name": "设备[0]-虚拟遥信7",
+      "Unit": null,
+      "Addr": 114,
+      "Xishu": 1.0,
+      "RealDevNo": 36,
+      "type": 0,
+      "Idx": 113
+    },
+    {
+      "No": 114,
+      "Name": "设备[0]-虚拟遥信8",
+      "Unit": null,
+      "Addr": 115,
+      "Xishu": 1.0,
+      "RealDevNo": 37,
+      "type": 0,
+      "Idx": 114
+    },
+    {
+      "No": 115,
+      "Name": "设备[0]-虚拟遥信9",
+      "Unit": null,
+      "Addr": 116,
+      "Xishu": 1.0,
+      "RealDevNo": 38,
+      "type": 0,
+      "Idx": 115
+    },
+    {
+      "No": 116,
+      "Name": "设备[1]-门锁开合",
+      "Unit": null,
+      "Addr": 117,
+      "Xishu": 1.0,
+      "RealDevNo": 877,
+      "type": 0,
+      "Idx": 116
+    },
+    {
+      "No": 117,
+      "Name": "设备[1]-门锁开合",
+      "Unit": null,
+      "Addr": 118,
+      "Xishu": 1.0,
+      "RealDevNo": 877,
+      "type": 0,
+      "Idx": 117
+    },
+    {
+      "No": 118,
+      "Name": "设备[0]-虚拟遥信11",
+      "Unit": null,
+      "Addr": 119,
+      "Xishu": 1.0,
+      "RealDevNo": 40,
+      "type": 0,
+      "Idx": 118
+    }
+  ],
   "YKDataItem": [],
   "DDDataItem": []
 }

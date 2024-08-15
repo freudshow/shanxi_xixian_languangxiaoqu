@@ -181,7 +181,7 @@
           "LocalPort": 2404,
           "RemotePort": 1000,
           "SocketChannelNo": 0,
-          "NetChannelNo": 13,
+          "NetChannelNo": 10,
           "TcpServerSet": null
         },
         {

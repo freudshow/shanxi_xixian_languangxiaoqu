@@ -1,7 +1,7 @@
 {
   "YcLimiteEnable": 0,
   "TotalYcCount": 360,
-  "TotalYxCount": 362,
+  "TotalYxCount": 363,
   "TotalYkCount": 118,
   "TotalDDCount": 49,
   "TotalParameterCount": 0,
@@ -21341,6 +21341,30 @@
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
       "GenerateModbusSlaveAddr": 43268,
+      "TypeProperty": 0
+    },
+    {
+      "RealDevOrderNum": 889,
+      "ProtolNum": 20,
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "DataModelName": null,
+      "DevAddr": null,
+      "DevModelName": null,
+      "DevDescription": null,
+      "DevPort": null,
+      "Name": "全站事故总",
+      "Unit": null,
+      "Ratio": 1.0,
+      "DeadSet": 1.0,
+      "RouteIdx": 0,
+      "NewYcOverLimite": 0.0,
+      "YcLowLimite": 1.0,
+      "LessOrMore": 0,
+      "GenerateVirtueYx": 0,
+      "GenerateModbusSlaveAddr": 49152,
       "TypeProperty": 0
     }
   ]
