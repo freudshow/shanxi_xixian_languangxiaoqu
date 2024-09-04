@@ -36,7 +36,7 @@
               "No": 0,
               "KeyMode": null,
               "KeyDec": "烟雾1_状态",
-              "ModbusRegAddr": 3,
+              "ModbusRegAddr": 4096,
               "Reverse": 1,
               "Bit": 0
             }
