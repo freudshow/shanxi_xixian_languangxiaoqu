@@ -9,19 +9,19 @@
       "S_linkDev": 1,
       "data": [
         {
-          "ModbusCmd": 3,
+          "ModbusCmd": 2,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 1,
           "SlaveDevAddr": 1,
+          "ModbusRegAddr": 4096,
           "GetRegCount": 1,
           "AreaNum": 0,
           "DataProperty": 0,
-          "DataType": "ModbusDataType_u16",
-          "LowAddr": 3,
-          "HighAddr": 3,
+          "DataType": "ModbusDataType_bitField",
+          "DataTypeEnum": 6,
+          "LowAddr": 4096,
+          "HighAddr": 4096,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 3,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "烟雾1_状态"
           ],
@@ -31,7 +31,16 @@
           "KeyCoe": [
             1.0
           ],
-          "DataType_Bit": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "烟雾1_状态",
+              "ModbusRegAddr": 3,
+              "Reverse": 1,
+              "Bit": 0
+            }
+          ],
           "MultiTypeList": null
         }
       ]
@@ -42,19 +51,19 @@
       "S_linkDev": 2,
       "data": [
         {
-          "ModbusCmd": 3,
+          "ModbusCmd": 2,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 1,
           "SlaveDevAddr": 4,
+          "ModbusRegAddr": 4096,
           "GetRegCount": 1,
           "AreaNum": 0,
           "DataProperty": 0,
-          "DataType": "ModbusDataType_u16",
-          "LowAddr": 3,
-          "HighAddr": 3,
+          "DataType": "ModbusDataType_bitField",
+          "DataTypeEnum": 6,
+          "LowAddr": 4096,
+          "HighAddr": 4096,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 3,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "烟雾2_状态"
           ],
@@ -64,7 +73,16 @@
           "KeyCoe": [
             1.0
           ],
-          "DataType_Bit": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "烟雾2_状态",
+              "ModbusRegAddr": 4096,
+              "Reverse": 1,
+              "Bit": 0
+            }
+          ],
           "MultiTypeList": null
         }
       ]
@@ -75,19 +93,19 @@
       "S_linkDev": 3,
       "data": [
         {
-          "ModbusCmd": 3,
+          "ModbusCmd": 2,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 1,
           "SlaveDevAddr": 5,
+          "ModbusRegAddr": 4096,
           "GetRegCount": 1,
           "AreaNum": 0,
           "DataProperty": 0,
-          "DataType": "ModbusDataType_u16",
-          "LowAddr": 3,
-          "HighAddr": 3,
+          "DataType": "ModbusDataType_bitField",
+          "DataTypeEnum": 6,
+          "LowAddr": 4096,
+          "HighAddr": 4096,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 3,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "烟雾3_状态"
           ],
@@ -97,7 +115,16 @@
           "KeyCoe": [
             1.0
           ],
-          "DataType_Bit": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "烟雾3_状态",
+              "ModbusRegAddr": 4096,
+              "Reverse": 1,
+              "Bit": 0
+            }
+          ],
           "MultiTypeList": null
         }
       ]
@@ -108,19 +135,19 @@
       "S_linkDev": 4,
       "data": [
         {
-          "ModbusCmd": 3,
+          "ModbusCmd": 2,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 1,
           "SlaveDevAddr": 6,
+          "ModbusRegAddr": 4096,
           "GetRegCount": 1,
           "AreaNum": 0,
           "DataProperty": 0,
-          "DataType": "ModbusDataType_u16",
-          "LowAddr": 3,
-          "HighAddr": 3,
+          "DataType": "ModbusDataType_bitField",
+          "DataTypeEnum": 6,
+          "LowAddr": 4096,
+          "HighAddr": 4096,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 3,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "烟雾4_状态"
           ],
@@ -130,7 +157,16 @@
           "KeyCoe": [
             1.0
           ],
-          "DataType_Bit": null,
+          "DataType_Bit": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "烟雾4_状态",
+              "ModbusRegAddr": 4096,
+              "Reverse": 1,
+              "Bit": 0
+            }
+          ],
           "MultiTypeList": null
         }
       ]
@@ -142,18 +178,18 @@
       "data": [
         {
           "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 1,
           "SlaveDevAddr": 3,
+          "ModbusRegAddr": 0,
           "GetRegCount": 1,
           "AreaNum": 0,
           "DataProperty": 0,
           "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
           "LowAddr": 0,
           "HighAddr": 0,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 0,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "水浸1状态"
           ],
@@ -175,18 +211,18 @@
       "data": [
         {
           "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 1,
           "SlaveDevAddr": 9,
+          "ModbusRegAddr": 0,
           "GetRegCount": 1,
           "AreaNum": 0,
           "DataProperty": 0,
           "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
           "LowAddr": 0,
           "HighAddr": 0,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 0,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "水浸2状态"
           ],
@@ -208,18 +244,18 @@
       "data": [
         {
           "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 2,
           "SlaveDevAddr": 2,
+          "ModbusRegAddr": 0,
           "GetRegCount": 2,
           "AreaNum": 0,
           "DataProperty": 1,
           "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
           "LowAddr": 0,
           "HighAddr": 1,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 0,
-          "DataTypeEnum": 7,
           "KeyDec": null,
           "KeyMode": null,
           "KeyCoe": null,
@@ -260,18 +296,18 @@
       "data": [
         {
           "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 2,
           "SlaveDevAddr": 7,
+          "ModbusRegAddr": 0,
           "GetRegCount": 2,
           "AreaNum": 0,
           "DataProperty": 1,
           "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
           "LowAddr": 0,
           "HighAddr": 1,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 0,
-          "DataTypeEnum": 7,
           "KeyDec": null,
           "KeyMode": null,
           "KeyCoe": null,
@@ -312,18 +348,18 @@
       "data": [
         {
           "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 1,
           "SlaveDevAddr": 18,
+          "ModbusRegAddr": 3,
           "GetRegCount": 1,
           "AreaNum": 0,
           "DataProperty": 0,
           "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
           "LowAddr": 3,
           "HighAddr": 3,
           "DataFormat": 0,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 3,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "红外1_报警状态"
           ],
